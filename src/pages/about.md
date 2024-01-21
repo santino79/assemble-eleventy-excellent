@@ -1,20 +1,15 @@
 ---
 title: About
 permalink: /about/index.html
-description: About this starter
+description: About Analysts Assemble
 layout: page
 youtube: true
 ---
 
-Based on the [companion website](https://buildexcellentwebsit.es/) of Andy Bell's talk 'Be the browser’s mentor, not its micromanager'. It takes over a core functionality: Using Tailwind CSS to generate CSS variables based on design tokens.
+Hi! My name is [Alan Hylands](https://alanhylands.com) and this is Analysts Assemble. 
 
-Like buildexcellentwebsit.es, this starter uses modern CSS, fluid type & space, flexible Layouts and Progressive Enhancement, wrapped in a basic template, ideal for personal websites and other small projects.
+I share some of my wisdom and learnings from my 20+ years working as a data analyst across industries like e-commerce, healthcare, banking, and tech.
 
-The aim is to spread the idea and use of this _excellent_ workflow. To work with it efficiently you should be familiar with [cube.fyi](https://cube.fyi/), [utopia.fyi](https://utopia.fyi/) and [every-layout.dev](https://every-layout.dev/).
+I also interview data professionals of all specialities and ask them to share their tips, tricks and career stories to help us all become a little bit better each day.
 
-- Find out more on https://buildexcellentwebsit.es/.
-- Remix the original: https://glitch.com/edit/#!/remix/build-excellent-websites
-
-## Watch the talk
-
-{% youtube 'JqnMI1AXl6w', 'Andy Bell – Be the browser’s mentor, not its micromanager' %}
+And, more importantly, how to use those skills to help our businesses and organisations use data to make better decisions.

@@ -1,17 +1,19 @@
 ---
 permalink: /index.html
-title: ' Eleventy Excellent'
-description: 'Eleventy starter using modern CSS, fluid type, fluid spacing, flexible layout and progressive enhancement.'
+title: 'Analysts Assemble'
+description: 'Resources, articles, and courses to help build better data analysts'
 layout: 'home'
 blog:
-  title: 'Blog'
-  intro: "I'm showing the last 4 blog posts, but there might be more!"
+  title: 'Articles'
+  intro: "I'm showing the last 4 articles, but there might be more!"
 ---
 
-## An Eleventy starter
+## Building better data analysts
 
-This [Eleventy](https://www.11ty.dev/) starter is based on [Andy Bell's](https://mastodon.social/@andy@bell.bz) talk 'Be the browser’s mentor, not its micromanager' and its companion website buildexcellentwebsit.es.
+Welcome to Analysts Assemble.
 
-In his words, it's about hinting the browser rather than micromanaging it, using progressive enhancement, CSS layout, fluid type & spacing, as well as modern CSS features.
+_Starting out in data and not sure where to begin?_ We've got you covered.
 
-This way we can shape frontends that look good to everyone, regardless of device, connection speed or context.
+_Been in this game for over 20 years and not sure where you want to go with it next?_ We've got your back.
+
+Delve deeper to find articles, resources, hints, tips, courses, interviews and much much more to help make you a better data analyst.
