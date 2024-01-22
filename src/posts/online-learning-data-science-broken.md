@@ -20,7 +20,7 @@ What kicked my thoughts on learning off was a podcast called [Level Up Your Cour
 
 I won’t ruin the podcast as it’s well worth a listen if you have a spare hour on your commute / walk / gym session. But it really boiled down to two things: 1) Lack of accountability and 2) Lack of consequences for failure.
 
-**I subscribe to a LOT of email newsletters in the data science world.** So recently my inbox has been filled to bursting point with everyone and their dog trying to hawk their paid &#8220;_**How To Get Started In Data Science**_&#8221; courses. I get that we all have to put bread on the table. And I’m all for experienced people in the industry passing that knowledge on to a hungry new generation. I don’t write articles on Simple Analytical (just) for my own narcissistic pleasure. I do legitimately want to help people learn from my own experiences. And I know the majority of others offering these courses and bootcamps do too.
+**I subscribe to a LOT of email newsletters in the data science world.** So recently my inbox has been filled to bursting point with everyone and their dog trying to hawk their paid &#8220;_**How To Get Started In Data Science**_&#8221; courses. I get that we all have to put bread on the table. And I’m all for experienced people in the industry passing that knowledge on to a hungry new generation. I don’t write articles (only) for my own narcissistic pleasure. I do legitimately want to help people learn from my own experiences. And I know the majority of others offering these courses and bootcamps do too.
 
 ## I&#8217;ll Say It. MOOCs Don&#8217;t Work For The Vast Majority Of People.
 

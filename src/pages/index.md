@@ -5,7 +5,7 @@ description: 'Resources, articles, and courses to help build better data analyst
 layout: 'home'
 blog:
   title: 'Articles'
-  intro: "I'm showing the last 4 articles, but there might be more!"
+  intro: "Check out the latest articles and interviews."
 ---
 
 ## Building better data analysts

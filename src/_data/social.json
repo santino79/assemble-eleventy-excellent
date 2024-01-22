@@ -1,18 +1,18 @@
 [
   {
     "platform": "github",
-    "url": "https://github.com/madrilene/eleventy-excellent",
+    "url": "https://github.com/santino79/assemble-eleventy-excellent",
     "icon": "github.svg"
   },
   {
-    "platform": "mastodon",
-    "url": "https://front-end.social/@lene",
-    "icon": "mastodon.svg"
+    "platform": "twitter",
+    "url": "https://twitter.com/AlanHylands",
+    "icon": "twitter.svg"
   },
   {
-    "platform": "ko-fi",
-    "url": "https://ko-fi.com/lenesaile",
-    "icon": "kofi.svg"
+    "platform": "linkedin",
+    "url": "https://www.linkedin.com/in/alanhylands/",
+    "icon": "linkedin.svg"
   },
   {
     "platform": "rss",

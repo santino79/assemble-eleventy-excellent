@@ -1,7 +1,6 @@
 ---
 title: 3 Relational Database Management Systems For Data Newbies To Get Started On
 date: 2018-02-19
-description: '3 Relational Database Management Systems For Data Newbies To Get Started On'
 ---
 {% imagePlaceholder "./src/assets/images/blog/filing-cabinet.jpg", "Filing cabinet", "" %}
 

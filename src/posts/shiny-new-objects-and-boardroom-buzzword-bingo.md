@@ -4,7 +4,7 @@ date: 2018-05-16
 ---
 {% imagePlaceholder "./src/assets/images/blog/shiny-ball.jpg", "Shiny ball", "" %}
 
-> **_This is part 4 of a six part series titled &#8220;[Frustrations of the Data Analyst Life&#8230;And How To Fix Them](/articles/frustrations-of-the-data-analyst-life)&#8220;_**
+> **_This is part 4 of a six part series titled &#8220;[Frustrations of the Data Analyst Life&#8230;And How To Fix Them](/articles/frustrations-of-the-data-analyst-lifeand-how-to-fix-them)&#8220;_**
 
 Picture the scene. Monday morning team catch-up with a senior executive who has just returned from a business trip to a conference he got a free junket to and had no business being at.
 

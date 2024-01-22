@@ -1,13 +1,6 @@
 ---
 title: Frustrations Of The Data Analyst Life…And How To Fix Them
-description: 'Ever felt frustrated in your data analyst role? People pissing you off? You are not alone, come find out more.'
 date: 2018-05-16
-featured_image: /images/content/
-image_caption: 
-excerpt: 
-tags: 
-     - data
-     - articles
 ---
 {% imagePlaceholder "./src/assets/images/blog/frustrated-monkey.jpg", "Frustrated monkey", "" %}
 
@@ -31,15 +24,13 @@ What if you could side-step the petty office politics, get a clear, concise set 
 
 Let’s release those inner demons of the data analyst life, put some names on our pain and find out how to fix them once and for all with our pain-busting six part series.
 
-## Frustrations Of The Data Analyst Life&#8230;
-  
-AND HOW TO FIX THEM
+## Frustrations Of The Data Analyst Life...And How To Fix Them
 
 ### Contents
 
   1. [Veruca Salt And The Just Give Me Everything Routine](/articles/veruca-salt-and-the-just-give-me-everything-routine)
   2. [The Fallacy That Everyone Wants (And Needs) Self Service BI](/articles/the-fallacy-that-everyone-wants-and-needs-self-service-bi)
-  3. [The Urgent!Urgent!Urgent! Boy Who Cried Wolf](/articles/the-urgenturgenturgent-boy-who-cried-wolf)
+  3. [The Urgent!Urgent!Urgent! Boy Who Cried Wolf](/articles/how-to-deal-with-the-urgent!-urgent!-urgent!-boy-who-cried-wolf)
   4. [Shiny New Objects and Boardroom Buzzword Bingo](/articles/shiny-new-objects-and-boardroom-buzzword-bingo)
   5. [The Unending Creep Of The Unspecified Scope](/articles/the-unending-creep-of-the-unspecified-scope)
   6. [But This Is The Way We’ve Always Done It](/articles/but-this-is-the-way-weve-always-done-it)

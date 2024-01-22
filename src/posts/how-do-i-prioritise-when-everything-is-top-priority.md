@@ -30,7 +30,7 @@ I may sound like a broken record continually going back over the same topic of d
 
 We’ve covered some tactics for dealing with a difficult customer who makes their own [poor planning your emergency](/articles/urgenturgenturgent-how-to-deal-when-someone-elses-poor-planning-becomes-your-emergency).
 
-As part of the [Frustrations Of The Data Analyst Life series](/articles/frustrations-of-the-data-analyst-life), I took another go at that in the event that they keep on doing it over and over again and [how to deal with that situation](/articles/the-urgenturgenturgent-boy-who-cried-wolf).
+As part of the [Frustrations Of The Data Analyst Life series](/articles/frustrations-of-the-data-analyst-lifeand-how-to-fix-them), I took another go at that in the event that they keep on doing it over and over again and [how to deal with that situation](/articles/how-to-deal-with-the-urgent!-urgent!-urgent!-boy-who-cried-wolf).
 
 What I’m talking about now goes beyond the single pain in the arse customer who keeps pulling the same Urgent! Urgent! Urgent! shit on you. This is when you find **EVERYONE** in the company does it – **all of the time**.
 

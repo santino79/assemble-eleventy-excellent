@@ -45,7 +45,7 @@ Working out _**WHAT WILL HAPPEN NEXT**_? The next level up from analysing what h
 
 Get through all five of those stages and you’ll have a lovely clean dataset, a fine spreadsheet or data viz of reportable numbers, a (succinct) story to tell senior management what happened and why and a set of numbers predicting where it will go for the next few weeks/months/years.
 
-###Revise. Rinse. Repeat. Retire.
+### Revise. Rinse. Repeat. Retire.
 
 If after all of that you still find yourself worrying whether it was Analysis or Analytics you were doing I suggest asking your manager for more work to do.
 

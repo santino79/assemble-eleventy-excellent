@@ -7,13 +7,13 @@ module.exports = {
     {
       text: 'Articles',
       url: '/articles/'
-    }
+    },
+    {
+      text: 'Interviews',
+      url: '/tags/interviews/'
+    }    
   ],
   bottom: [
-    {
-      text: 'Imprint',
-      url: '/imprint/'
-    },
     {
       text: 'Privacy',
       url: '/privacy/'

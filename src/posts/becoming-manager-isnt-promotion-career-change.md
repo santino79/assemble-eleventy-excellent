@@ -1,6 +1,5 @@
 ---
 title: Becoming An Analytics Manager Isn’t A Promotion. It’s A Career Change.
-description: 'Becoming a data scientist may be the modern tech version of becoming a rock n roll star but no-one really seems to be talking about what happens a few years further into your career. Is management really a promotion?'
 date: 2018-11-18
 ---
 {% imagePlaceholder "./src/assets/images/blog/manager-team-table.jpg", "Manager sitting at a table", "" %}

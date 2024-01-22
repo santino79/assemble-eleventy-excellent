@@ -1,6 +1,5 @@
 ---
 title: 'Best SQL Online Courses, Training, Resources and Tutorials'
-description: 'Which are the best online training courses for learning SQL?'
 date: 2019-08-11
 ---
 ## What is SQL?

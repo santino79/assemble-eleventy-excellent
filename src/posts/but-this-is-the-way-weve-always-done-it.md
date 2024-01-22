@@ -5,7 +5,7 @@ featured_image: /images/content/
 ---
 {% imagePlaceholder "./src/assets/images/blog/change-neon-sign.jpg", "Neon Change sign", "" %}
 
-> **_This is part 6 of a six part series titled [Frustrations of the Data Analyst Life&#8230;And How To Fix Them](/articles/frustrations-of-the-data-analyst-life)_**
+> **_This is part 6 of a six part series titled [Frustrations of the Data Analyst Life&#8230;And How To Fix Them](/articles/frustrations-of-the-data-analyst-lifeand-how-to-fix-them)_**
 
 ## Something Just Ain&#8217;t Right Here
 

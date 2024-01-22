@@ -22,7 +22,9 @@ It also brings the potential for certain parties to try and take advantage of th
 
 I’ve got two young daughters. You think I need any additional stress in my life? **Oh hell no.**
 
-### What do we do then when our good nature is repeatedly taken advantage of and someone else’s poor planning keeps on becoming our emergency time after time after time?
+### Stop being taken advantage of
+
+What do we do then when our good nature is repeatedly taken advantage of and someone else’s poor planning keeps on becoming our emergency time after time after time?
 
 First up, you need to confront the reaction within yourself. Recognise that this is not a one off. Bottling up the rage or taking it out on your poor unsuspecting mouse or keyboard is not a sustainable way for you to approach these situations.
 

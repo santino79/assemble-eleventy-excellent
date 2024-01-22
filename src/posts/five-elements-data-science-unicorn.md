@@ -1,12 +1,6 @@
 ---
 title: The Five Elements Of The Data Science Unicorn
 date: 2019-01-15
-featured_image: /images/content/number-five-tile.jpg
-image_caption: 
-excerpt: 
-tags: 
-     - data
-     - articles
 ---
 {% imagePlaceholder "./src/assets/images/blog/number-five-tile.jpg", "Number five tile", "" %}
 

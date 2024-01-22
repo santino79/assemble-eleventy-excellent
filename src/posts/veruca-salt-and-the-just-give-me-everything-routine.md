@@ -4,7 +4,7 @@ date: 2018-05-16
 ---
 {% imagePlaceholder "./src/assets/images/blog/i_want_it_now.jpg", "Veruca Salt", "" %}
 
-> *This is part 1 of a six part series titled &#8220;[Frustrations of the Data Analyst Life&#8230;And How To Fix Them](/articles/frustrations-of-the-data-analyst-life)&#8220;*
+> *This is part 1 of a six part series titled &#8220;[Frustrations of the Data Analyst Life&#8230;And How To Fix Them](/articles/frustrations-of-the-data-analyst-lifeand-how-to-fix-them)&#8220;*
 
 For those business stakeholders who can’t make a single decision in their entire lives we have the #1 method for pissing off your entire data team: **Just Ask For Everything.**
 

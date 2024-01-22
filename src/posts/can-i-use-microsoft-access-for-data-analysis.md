@@ -4,11 +4,13 @@ date: 2018-02-20
 ---
 {% imagePlaceholder "./src/assets/images/blog/msaccess.png", "MS Access", "" %}
 
-Microsoft Access. Two words guaranteed to bring any data analyst or IT professional out in a cold sweat but is the somewhat tarnished reputation justified and is there any real place for MS Access in your analytical arsenal?
+_Microsoft Access._
+
+Two words guaranteed to bring any data analyst or IT professional out in a cold sweat but is the somewhat tarnished reputation justified and is there any real place for MS Access in your analytical arsenal?
 
 ## Why does it get so much hate?
 
-“Serious” analysts claim to not touch Access with a twenty foot barge pole. It’s more uncool than your dad dancing at a family wedding. It’s been uncool for so long I keep waiting for hipster analysts to adopt it and start to wear using it as a badge of honour against the entrenched snobbish establishment. I’m still waiting.
+“Serious” analysts claim to not touch Access with a twenty foot barge pole. It’s more uncool than your dad dancing at a family wedding. It’s been uncool for so long I keep waiting for hipster analysts to adopt it and start to wear using it as a badge of honour against the entrenched snobbish establishment. (Update from 2024: I’m still waiting.)
 
 In certain circles mentioning that you use MS Access is akin to saying you never want to work professionally in the data world again.
 
@@ -16,15 +18,15 @@ They say it’s too slow. They say it’s not able to handle high volumes of dat
 
 And in many cases those complaints are justified. That’s not to say that it doesn’t have it’s place underpinning both daily workplace tasks and as a quick, easy way to pull some data together and give it a rudimentary once over.
 
-## Why shouldI use it?
+## Why should I use it?
 
 All of the things people use as arguments against using MS Access turn out to be reasons for others to use it.
 
-  1. It’s super easy to use – hell yes it is. Setting up tables, queries, forms and reports is a veritable walk in the park. You can import data from spreadsheets, text files or other more suitable data sources like SQL Server and not be afraid of Janey from Accounts overwriting chunks of the production tables with an ill-advised UPDATE statement in Management Studio.
+  1. **It’s super easy to use** – hell yes it is. Setting up tables, queries, forms and reports is a veritable walk in the park. You can import data from spreadsheets, text files or other more suitable data sources like SQL Server and not be afraid of Janey from Accounts overwriting chunks of the production tables with an ill-advised UPDATE statement in Management Studio.
 
-  2. It’s not big enough and my database just kept growing – over time you will eventually max out it’s size limits (somewhere around 2GB from personal observation) but for small scale datasets and quick analysis jobs this will give you more than enough space for very little server space overhead and all you need is MS Access installed on your machine. This should come as standard with most MS Office installs so no fighting with the IT Department to install unwelcome 3rd party software.
+  2. **It’s not big enough and my database just kept growing** – over time you will eventually max out it’s size limits (somewhere around 2GB from personal observation) but for small scale datasets and quick analysis jobs this will give you more than enough space for very little server space overhead and all you need is MS Access installed on your machine. This should come as standard with most MS Office installs so no fighting with the IT Department to install unwelcome 3rd party software.
 
-  3. It’s not secure enough – well don’t keep business critical or top secret secure data on it in a publicly accessible place then. You don’t need a full user access infrastructure to get started, load it up, fire in your data, run your queries or VBA and it’s all there in front of you.
+  3. **It’s not secure enough** – well don’t keep business critical or top secret secure data on it in a publicly accessible place then. You don’t need a full user access infrastructure to get started, load it up, fire in your data, run your queries or VBA and it’s all there in front of you.
 
 ## Maybe I should use it then...
 

@@ -6,15 +6,15 @@ date: 2018-03-12
 
 I see variations on this question a lot and it inevitably brings me back nearly two decades to when I was really getting into web and software development (the precursor to my data analyst career).
 
-## Adventures In Studying Accounting
+## Adventures In Accounting
 
-I&#8217;d studied Accounting at university but lost any interest for that midway through second year and by the time I graduated I had barely managed to keep my scores high enough to scrape into a 2:1.
+I studied Accounting at university but lost any interest for that midway through second year and by the time I graduated I had barely managed to keep my scores high enough to scrape into a 2:1.
 
 At age 17 I&#8217;d thought Accounting was a sound choice as I was good at Maths and Economics and there was a professional qualification path afterwards that could lead on to other areas in business and finance.
 
 I wasn&#8217;t wrong there but with little life experience of what the job or degree path offered beyond the UCAS handbook it turned out to be a poor choice at that time. It wasn&#8217;t what I was looking for and with a little hindsight (and a lot of years in between) my advice to myself then would have been to do the Finance degree I&#8217;d really had my eye on and make a shit ton of money in the City before 2008 hit (disclaimer: may or may not be joking about this).
 
-I enjoyed the Statistics and Economics modules we did, a throwback to my A Level days in Mr. Scott&#8217;s Maths and Mr. Christie&#8217;s Economics classes, but beyond a couple of other random classes in Financial Market Theory and an Economic and Social History comparison of Britan and Japan in the 20th Century I was bored and, worse still, struggling massively with anxiety.
+I enjoyed the Statistics and Economics modules we did, a throwback to my A Level days in Mr. Scott&#8217;s Maths and Mr. Christie&#8217;s Economics classes. But beyond a couple of other random classes in Financial Market Theory and an Economic and Social History comparison of Britan and Japan in the 20th Century I was bored and, worse still, struggling massively with anxiety.
 
 Panic attacks and avoiding tutorial classes for fear of being put on the spot and not knowing an answer were increasingly common occurrences to the point where I barely went to class at all in third year. I was getting increasingly close to the big bad world and real life and my introverted nature and anxiety was not making it easy for me to take full advantage of what university should have been about.
 
@@ -44,7 +44,7 @@ My first day at the course was particularly memorable as the internet went down 
 
 9/11 aside, we did some intro classes to see where our interests lay. Some took the hardware path, some the software development and I joined the Emerging Technologies path. It included short courses in ASP, VBScript, Javascript and databases. Just enough to wet the lips really but it was a start.
 
-I went out on placement for 3 months at a very prestigious financial software development house and was shown up for the know nothing wannabe I really was. I bombed big time, totally out of my depth and very much aware that they thought I was a clown.
+I went out on placement for 3 months at a very prestigious financial software development house and was shown up for the know-nothing wannabe I really was. I bombed big time, totally out of my depth and very much aware that they thought I was a clown.
 
 I got my head down when we went back to RAP after placement and got two Microsoft exams in VB6 (pre Dot Net days of course) and used those, along with a welcome family introduction, to get an interview and eventual junior developer job at a local web and software development company.
 
@@ -54,7 +54,7 @@ I could fill this whole site with tales of my (often sordid) working life but (f
 
 The brief excerpt of my life above covers about a 5 year period between 1997 and 2002. The pace of change even then was frightening in how quickly things moved on.
 
-Between then and early 2007 when I started working as a data analyst at my current employer, things moved on even further. They didn&#8217;t slow down, they accelerated and continue to do so. There is no getting away from that.
+Between then and early 2007 when I started working as a data analyst at The Bank, things moved on even further. They didn&#8217;t slow down, they accelerated and continue to do so. There is no getting away from that.
 
 If I had panicked about an unknowable future at any of those stages and jumped onto every new platform, technology or programming language that put itself in front of me I would be no further on than I am now.
 

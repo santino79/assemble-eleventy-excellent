@@ -4,7 +4,7 @@ date: 2018-05-16
 ---
 {% imagePlaceholder "./src/assets/images/blog/columbo.jpg", "Columbo", "" %}
 
-> **_This is part 5 of a six part series titled &#8220;[Frustrations of the Data Analyst Life&#8230;And How To Fix Them](/articles/frustrations-of-the-data-analyst-life)&#8220;_**
+> **_This is part 5 of a six part series titled &#8220;[Frustrations of the Data Analyst Life&#8230;And How To Fix Them](/articles/frustrations-of-the-data-analyst-lifeand-how-to-fix-them)&#8220;_**
 
 ## So who are we dealing with here?
 
@@ -45,7 +45,7 @@ Leading that process will see you become, interchangeably, at a moment’s notic
 
 It’s not a job for the faint of heart but by doing it properly you’ll deliver one of the main gifts you can bestow on your analyst team:
 
-### The gift of effective air support against unnecessary internal attack _PLUS_ a well specced out, signed off set of requirements to work to.
+**The gift of effective air support against unnecessary internal attack _PLUS_ a well specced out, signed off set of requirements to work to.**
 
 If you half ass it at this point it will keep biting your own ass and that of your team potentially for weeks or months ahead.
 
