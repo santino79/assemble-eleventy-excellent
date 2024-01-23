@@ -11,7 +11,11 @@ module.exports = {
     {
       text: 'Interviews',
       url: '/tags/interviews/'
-    }    
+    },
+    {
+      text: 'Courses',
+      url: '/courses/'
+    }      
   ],
   bottom: [
     {

@@ -38,7 +38,7 @@ module.exports = {
     zip: 'BT34 1DJ ',
     mobileDisplay: 'n/a',
     mobileCall: 'n/a',
-    email: 'mail@analystsassemble.com',
+    email: 'alan@alanhylands.com',
     cif: ''
   },
   menu: {

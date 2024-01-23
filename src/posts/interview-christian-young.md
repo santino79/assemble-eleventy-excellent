@@ -29,7 +29,7 @@ I was hired to take over a team, which I have now just done, after spending six 
 
 My typical day involves monitoring our ticketing system for new work, meeting with clients, and cutting code.
 
-I have a team of four, though currently we are a team of three and none of us are in the same city. However our wider data team are numerous so I’m not quite a lone wolf, there are always members of my team around (like the famous [Helen Anderson][1].) My other two colleagues are in 2 different offices, so there is a heavy use of Slack and video calls to bridge that gap.
+I have a team of four, though currently we are a team of three and none of us are in the same city. However our wider data team are numerous so I’m not quite a lone wolf, there are always members of my team around (like the famous [Helen Anderson](/articles/qanda-with-helen-anderson-bi-data-analyst-and-technical-consultant/).) My other two colleagues are in 2 different offices, so there is a heavy use of Slack and video calls to bridge that gap.
 
 We are also an international company with substantial offices in Asia, America, Australia, UK, and New Zealand so we can be talking to clients at all hours. Though I do want to stress that my team works NZ hours, and I’m militant about work life balance so the only time a member of my team should be working odd hours is to talk to client in a different timezone and then they go home early / come in late the next day.
 
@@ -79,7 +79,6 @@ Ronsoak on Amazon at some point in the future (I’m writing sci-fi).
 
 \*\*Bonus points if you know the reference.\*\*
 
- [1]: https://analystsassemble.com/interviews/helen-anderson/
  [2]: https://medium.com/@ronsoak
  [3]: https://twitter.com/ronsoak
  [4]: https://dev.to/ronsoak
