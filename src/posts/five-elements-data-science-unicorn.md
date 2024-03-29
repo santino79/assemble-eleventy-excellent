@@ -84,13 +84,7 @@ Be a coding [MacGyver](https://en.wikipedia.org/wiki/MacGyver). Use whatever you
 
 {% imagePlaceholder "./src/assets/images/blog/book-fairy-lights.jpg", "Fairy lights on a book", "" %}
 
-## The Griot
-
-_**The what now?**_
-
-(It’s pronouced Gree-Oh by the way.)
-
-> The Griot are members of a class of travelling musicians and storytellers of West African origin. The griot is a repository of oral tradition and is often seen as a leader due to his or her position as an advisor to royal personages.
+## The Storyteller
 
 This is how you deliver your story to senior management and really unlock the power of the analysis your team has produced. Mixing the personal presentation skills of a seasoned [TED](https://www.ted.com/) Talker with the data visualisation chops of a staff writer on [The Pudding](https://pudding.cool/).
 
