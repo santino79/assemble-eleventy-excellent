@@ -8,11 +8,11 @@ _This is Part 2 of a 3 part series, detailing the trials and tribulations of mov
 
 ## Once upon a time, there was an analyst who became a manager
 
-And they wrote [an article](/articles/becoming-an-analytics-manager-isnt-a-promotion-its-a-career-change/) about why they did it, and stuck with the decision, through thick and thin, sun and rain, the good times and the bad. And the <strike>analyst</strike> manager was happy...[but not really](https://en.wikipedia.org/wiki/The_Giving_Tree).
+And they wrote [an article](/articles/becoming-an-analytics-manager-isnt-a-promotion-its-a-career-change/) about why they did it, and stuck with the decision, through thick and thin, the good times and the bad. And the <strike>analyst</strike> manager was happy...[but not really](https://en.wikipedia.org/wiki/The_Giving_Tree).
 
-It turned out that the career path that had been laid out in that move to management wasn't all that it was cracked up to be. And to be truthful, it hadn't ever been sold as that in the first place. It was just something one was expected to do.
+It turned out that the career path that had been laid out in that move to management wasn't all that it was cracked up to be. And to be truthful, _it hadn't ever been sold as that in the first place_. It was just something one was expected to do.
 
-Want to keep "moving on up"? Get your foot on the first rung of that ladder and start climbing boyo. Get on up there.
+Want to keep "moving on up"? Get your foot on the first rung of that ladder and start climbing. Get on up there.
 
 ### Moving up or holding on for grim death?
 
@@ -20,19 +20,21 @@ But what happens when you've done it for a few years and every day is becoming a
 
 What got you here is not what will get you to the next level...if you even want that. And the skills you  mastered in your previous glorious Individual Contributor (IC) adventures will have started to dull and fade.
 
-_What if you could do a Cher and turn back time?_ Cast off the shackles of your management prison and jump back into being an IC.
+_What if you could do a Cher and turn back time, casting off the shackles of your management prison and jumping back into being an IC?_
 
-Is that even an option and, if so, what would the pitfalls and ramifications be to the world you've created for yourself?
+Is that even an option? And, if so, what would the pitfalls and ramifications be to the world you've created for yourself?
 
 You're about to hear from someone who knows i.e. me. I did it. It's been over four years since I made the full-time leap back into the wicked world of ICs. And it's time to talk about it.
 
-Pure and unvarnished. Warts and all. Brace yourselves, it's Real Talk time.
+Pure and unvarnished. Warts and all.
+
+Brace yourselves, it's Real Talk time.
 
 ## Why would you do it?
 
 {% imagePlaceholder "./src/assets/images/blog/emily-morter-8xAA0f9yQnE-unsplash.jpg", "Question mark lights on dark background", "" %}
 
-I quoted startup founder [Rob Walling](https://robwalling.com/) in the [first instalment](/articles/becoming-an-analytics-manager-isnt-a-promotion-its-a-career-change/) of this career journey, and this part sums it up perfectly:
+I quoted startup founder [Rob Walling](https://robwalling.com/) in the [first instalment](/articles/becoming-an-analytics-manager-isnt-a-promotion-its-a-career-change/) of this career journey saga, and this part sums it up perfectly:
 
 > “If you find yourself in management and wish you were coding, don’t wait until you’re completely burned out and bitter; do yourself (and your company) a favor – and do it now. Get yourself back into the code jockey seat.
 
@@ -103,9 +105,7 @@ Maybe I was. My manager and our head of department didn't think so. They told me
 
 When I finally left the company, my most trusted team members told me I was a good manager. And none of those folks had any cause to lie to me. I wasn't signing off any more performance reviews by that time, my "power" had been relinquished.
 
-A few of the stragglers who hadn't made the grade and got bounced to other teams, or encouraged to find alternative employment, might offer a different report but...**_you can't please all of the people all of the time._**
-
-Ultimately, I tried to treat people fairly if they treated me the same. You didn't have to kill yourself for the cause, just don't take the piss _all the time_.
+There would be a few (ahem) who might offer a different report but...**_you can't please all of the people all of the time._**
 
 It just wasn't a discipline that I envisaged myself ever wanting to get _really really_ good at. I didn't want to be a bad manager. But I also didn't care enough to be a really good manager either. Or at least not _only_ a good manager of other people.
 
