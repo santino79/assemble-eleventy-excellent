@@ -8,7 +8,7 @@ _This is Part 3 of a 3 part series, detailing the trials and tribulations of mov
 
 ### What have I really learned?
 
-Like anything in life, there are wins and losses, ups and downs. If we put aside the hypotheticals and voices in our heads, how can it really work out in practice?
+Like anything in life, there are wins and losses, ups and downs. But if we put aside the hypotheticals and voices in our heads, how can it really work out in practice?
 
 We have to be fully armed with the potential downsides. So let's take a run through what can go wrong with the move back to IC from manager first.
 
