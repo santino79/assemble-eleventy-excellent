@@ -1,10 +1,10 @@
 ---
-title: There And Back Again - From Data Manager Back To IC
+title: There And Back Again - A Data Career Journey
 date: 2024-03-29
 ---
 {% imagePlaceholder "./src/assets/images/blog/rob-wicks-yVuRzuqArkg-unsplash.jpg", "One way sign lying on the ground", "" %}
 
-_This is Part 2 of a 3 part series, detailing the trials and tribulations of moving from being a [data IC to data manager](/articles/becoming-an-analytics-manager-isnt-a-promotion-its-a-career-change/) and back to IC again._
+_This is Part 2 of a 3 part series, detailing the trials and tribulations of moving from being a [data IC to data manager](/articles/becoming-an-analytics-manager-isnt-a-promotion-its-a-career-change/) , and [back to IC again](/articles/ive-looked-at-life-from-both-sides-now/)._
 
 ## Once upon a time, there was an analyst who became a manager
 
@@ -24,11 +24,9 @@ _What if you could do a Cher and turn back time, casting off the shackles of you
 
 Is that even an option? And, if so, what would the pitfalls and ramifications be to the world you've created for yourself?
 
-You're about to hear from someone who knows i.e. me. I did it. It's been over four years since I made the full-time leap back into the wicked world of ICs. And it's time to talk about it.
+You're about to hear from someone who knows i.e. me. I did it. It's been over four years since I made the full-time leap back into the wicked world of ICs.
 
-Pure and unvarnished. Warts and all.
-
-Brace yourselves, it's Real Talk time.
+And, now, it's time to talk about it.
 
 ## Why would you do it?
 
@@ -61,7 +59,9 @@ As a manager, your main priority will be to grow the skills and opportunities of
 
 If you are very successful at this, they could use this coaching and talent management extravaganza to get good enough to jump ship and ditch you for a better offer elsewhere.
 
-Then you have to pick up a rookie to start from scratch on, or a grizzled old veteran who thinks you're a knob and maybe should have your job for themselves. The rookie might think this too to be fair. It's not mutually exclusive.
+Then you have to pick up a rookie to start from scratch on, or a grizzled old veteran who thinks you're a knob and maybe should have your job for themselves.
+
+_The rookie might think this too to be fair._ It's not mutually exclusive.
 
 Meanwhile, your own technical skills have disappeared into the mists of time, as relevant to the modern data stack as an abacus and chalkboard. 
 
@@ -129,7 +129,7 @@ But how do we overcome it? By facing those fears and seeing if they are real and
 
 {% imagePlaceholder "./src/assets/images/blog/shawshank-redemption-andy-rain.jpg", "Shawshank Redemption Andy escapes in the rain", "" %}
 
-**What would you rather endure:** a slow, painful death march towards retirement in a job you hate or a painful rebirth into a possible bright new future.
+**What would you rather endure:** _a slow, painful death march towards retirement in a job you hate or a painful rebirth into a possible bright new future?_
 
 "Get busy living or get busy dying", if we're to quote the ever wonderful [Shawshank Redemption](https://www.imdb.com/title/tt0111161/).
 
@@ -192,7 +192,7 @@ And if that upward trajectory does sound like your bag then...well, have at it, 
 
 In the next instalment of this saga, we'll take a run through some of the main things that can go wrong, and also some of the things that can go right, if we do decide to jump ship back to being an IC.
 
-Check out There And Back Again Part 3: xxxxinsert title herexxx
+Check out There And Back Again Part 3: [I've Looked At Life From Both Sides Now](/articles/ive-looked-at-life-from-both-sides-now/)
 
 ### _Some Further Recommended Reading_
 

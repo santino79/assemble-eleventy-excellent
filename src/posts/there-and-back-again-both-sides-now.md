@@ -1,18 +1,10 @@
 ---
-title: There And Back Again - I've Looked At Life From Both Sides Now
+title: I've Looked At Life From Both Sides Now
 date: 2024-03-29
 ---
 {% imagePlaceholder "./src/assets/images/blog/joni-mitchell-guitar.jpg", "Joni Mitchell with acoustic guitar", "" %}
 
-_This is Part 3 of a 3 part series, detailing the trials and tribulations of moving from being a [data IC to data manager](/articles/becoming-an-analytics-manager-isnt-a-promotion-its-a-career-change/) and [back to IC](/articles/there-and-back-again-from-data-manager-back-to-ic/) again._
-
-> From win and lose and still somehow  
-> It's life's illusions I recall  
-> I really don't know life at all
-
-_Joni Mitchell - Both Sides Now_
-
-Dear Joni always knows what to say.
+_This is Part 3 of a 3 part series, detailing the trials and tribulations of moving from being a [data IC to data manager](/articles/becoming-an-analytics-manager-isnt-a-promotion-its-a-career-change/) and [back to IC](/articles/there-and-back-again-a-data-career-journey/) again._
 
 ### What have I really learned?
 
