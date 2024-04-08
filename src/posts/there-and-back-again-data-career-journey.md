@@ -10,7 +10,9 @@ _This is Part 2 of a 3 part series, detailing the trials and tribulations of mov
 
 And they wrote [an article](/articles/becoming-an-analytics-manager-isnt-a-promotion-its-a-career-change/) about why they did it, and stuck with the decision, through thick and thin, the good times and the bad. And the <strike>analyst</strike> manager was happy...[but not really](https://en.wikipedia.org/wiki/The_Giving_Tree).
 
-It turned out that the career path that had been laid out in that move to management wasn't all that it was cracked up to be. And to be truthful, _it hadn't ever been sold as that in the first place_. It was just something one was expected to do.
+It turned out that the career path that had been laid out in that move into management wasn't all that it was cracked up to be.
+
+And to be truthful, _it hadn't ever been sold as that in the first place_. It was just something you were expected to do.
 
 Want to keep "moving on up"? Get your foot on the first rung of that ladder and start climbing. Get on up there.
 
@@ -36,13 +38,15 @@ I quoted startup founder [Rob Walling](https://robwalling.com/) in the [first in
 
 > “If you find yourself in management and wish you were coding, don’t wait until you’re completely burned out and bitter; do yourself (and your company) a favor – and do it now. Get yourself back into the code jockey seat.
 
-There are many different reasons why you would reach tipping point on the decision though. Every single person in this situation will be different but here are a few that I wrestled with that finally made the decision for me. 
+There are many different reasons why you would reach tipping point on the decision though. Every person in this situation will be different but here are a few that I wrestled with that finally made the decision for me. 
 
-### The eternal grind of office politics and people.
+### The eternal grind of office politics and people
 
 ![I cant with people gif](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHB2dGdxbGsyZHAyaDY2czFraHJ5Mm0xcG00eHpudjkxOHZuMnpvcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/w6KSZzKkyOcWuuGdLg/giphy.gif)
 
-Managing up AND managing down is tiring. Especially in larger companies, I picture the back-and-forward between the upper exec and senior leadership levels and the rank-and-file workers on the ground as a tennis match.
+Managing up AND managing down is tiring.
+
+Especially in larger companies, I picture the back-and-forward between the upper exec and senior leadership levels and the rank-and-file workers on the ground as a tennis match.
 
 As a junior/middle manager, you will find yourself in the unenviable position of always being the tennis ball.
 
@@ -119,7 +123,7 @@ So once you've weighed up the factors that can push you towards a decision, what
 - Fear of public perception.
 - Fear of ridicule and scorn from your family and friends.
 - Fear of financial catastrophe.
-- Fear of fucking up.
+- Fear of messing up.
 
 Fear. Fear. Fear. Fear. **So much fear.**
 

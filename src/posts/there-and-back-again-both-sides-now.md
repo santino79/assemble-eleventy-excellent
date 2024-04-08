@@ -2,15 +2,23 @@
 title: I've Looked At Life From Both Sides Now
 date: 2024-03-29
 ---
-{% imagePlaceholder "./src/assets/images/blog/joni-mitchell-guitar.jpg", "Joni Mitchell with acoustic guitar", "" %}
+{% imagePlaceholder "./src/assets/images/blog/zbynek-burival-8iZG31eXkks-unsplash.jpg", "Clouds", "" %}
 
-_This is Part 3 of a 3 part series, detailing the trials and tribulations of moving from being a [data IC to data manager](/articles/becoming-an-analytics-manager-isnt-a-promotion-its-a-career-change/) and [back to IC](/articles/there-and-back-again-a-data-career-journey/) again._
+_This is Part 3 of a 3 part series, detailing the trials and tribulations of moving from being a [data IC to data manager](/articles/becoming-an-analytics-manager-isnt-a-promotion-its-a-career-change/) and why we might think about going [back to Individual Contributor](/articles/there-and-back-again-a-data-career-journey/) again._
+
+### Quick Recap
+
+In [**Part 1**](/articles/becoming-an-analytics-manager-isnt-a-promotion-its-a-career-change/), we looked at the reason why we'd move over from being a data IC (in my case, an analyst) to becoming a manager of data analysts.
+_TL;DR glass ceiling, money, seemed like the right thing to do at the time._
+
+In [**Part 2**](/articles/there-and-back-again-a-data-career-journey/), we looked at why that move might have started to turn sour and make us cast wistful glances back across the aisle to our old IC stomping ground.
+_TL;DR tired of politics, missing doing what we actually enjoy, scared of messing up our careers._
 
 ### What have I really learned?
 
 Like anything in life, there are wins and losses, ups and downs. But if we put aside the hypotheticals and voices in our heads, how can it really work out in practice?
 
-We have to be fully armed with the potential downsides. So let's take a run through what can go wrong with the move back to IC from manager first.
+We have to be fully armed with the potential downsides. So let's take a run through what can go wrong with the move **back to IC from data manager** first.
 
 And then we'll do the positive ending to bring this all home.
 
@@ -20,17 +28,23 @@ What can go very right? What are the reasons we'd do it, even in the face of adv
 
 ### You don't belong here
 
+![Feel like a fraud gif](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWJibHZlZTRweTR0c204em84amE1bjN2eDZjNXdpbmI5enY5d3BoZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7WIBUKgBVmxzolm8/giphy.gif)
+
 Ever get the feeling that you wandered into a room that you don't belong in? Even worse, the looks on the faces of the people _in the room_ seem to very clearly show that _they know_ you don't belong there either.
 
 Whether the second part is actually true or not (if it is you're really in the wrong room, life's too short to be around assholes like that every day), you need to recognise it for what it is: **the age-old plague of imposter syndrome**.
 
 That relentless annoying voice in your head that tells you that you aren't actually good enough to have gotten this job and ANY SECOND NOW they'll catch you on and give you the old Jazzy Jeff heave-ho out the door.
 
-It's damn hard going back to being an IC if you've let your skills gather a little dust over the past few years as a manager. Even harder when you get into it and see a load of younger, better qualified, (seemingly) smarter people than you doing what you used to do, back in the day, only they're doing it better.
+It's damn hard going back to being an IC if you've let your skills gather a little dust over the past few years as a manager.
+
+Even harder when you get into it and see a load of younger, better qualified, (seemingly) smarter people than you doing what you used to do, back in the day, only they're doing it better.
 
 _Spoiler alert: they're usually all feeling the same way._ Tell the voice to shut up, you deserve this, you earned it. Don't go sabotaging yourself and remember, if you really don't deserve to be there on merit, they'll catch you on pretty quickly anyway. So why worry?
 
 ### Age is just a (big) number
+
+![Danny Glover too old gif](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeTY3d2ozeTRuY2lzYjllYTBzeTVleDlzcnd6bGQ1MmNuMG9ieWF2dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3b1JW7LxfsAKs/giphy-downsized-large.gif)
 
 [Chris Rock](https://en.wikipedia.org/wiki/Chris_Rock) does a great bit in his [Bring The Pain](https://www.youtube.com/watch?v=coC4t7nCGPs) routine where he talks about not wanting to be the old guy in the club.
 
@@ -59,13 +73,17 @@ Ah damn it, busted again. Might as well have opened with the line "Back in my da
 
 ### Money matters
 
+![Make it rain money gif](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHU0djA4ZXh5OHo3MzI3MnpnZjlidHpscmtobnkxc2diaGtvZXF0NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JpG2A9P3dPHXaTYrwu/giphy.gif)
+
 When the IC job market was red hot a couple of years ago, this mightn't have been such an issue. Comp packages and bonuses were getting bigger to attract the top talent as companies went on hiring sprees and needed to compete to get their chosen hot-shots in the door.
 
 _You may not have noticed (ha!) but times have changed._
 
 Layoffs in many sectors, not just the metaphorical bloodbath in tech, have seen a dramatic softening in this area as a glut of skilled ICs hit the job market, pushing wages down.
 
-If your managerial experience is at a company that views **management as a promotion** then maybe you got a salary bump when you went in there. Looking at a slightly more junior level over in IC World, as you try to get your foot back in the door inthisa constricted market, might mean a sizeable drop in salary.
+If your managerial experience is at a company that views **management as a promotion** then maybe you got a salary bump when you went in there.
+
+Looking at a slightly more junior level over in IC World, as you try to get your foot back in the door inthisa constricted market, might mean a sizeable drop in salary.
 
 - Inflation is still on the march.
 - Bills are through the roof.
@@ -76,6 +94,8 @@ Can you really afford to take a pay cut right now and risk never getting back to
 
 ### Head-butting the glass ceiling
 
+![Christine Baranski glass ceiling gif](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGkwcjgxZHVqYzk2aTFwZWkxa3BleXdsbW0zazF2a3lnbzN6M2V2NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o84UeuLIfVbx71lO8/giphy.gif)
+
 It's still a rare organization that truly runs parallel tracks for managers and ICs right up to the higher echelons of the company.
 
 Even if they do, the air gets thinner and the opportunities fewer and fewer for progression once you drag yourself a level or two above the general population.
@@ -84,7 +104,7 @@ Maybe it's an age thing again but where do you see yourself at age 50 or 60? Sti
 
 I saw a post on LinkedIn recently about a senior software engineer in their late 50s/early 60s who didn't get an engineering job they'd applied for. The reason given was that they didn't display enough drive in their career because _they weren't a CTO already_.
 
-**WTF?**
+_**WTF?**_
 
 Either there's a glass ceiling for ICs who don't jump into management (which happens in many places), or every single IC should be in the C-suite by the time they reach 30 years of experience. Which is it likely to be?
 
@@ -93,6 +113,8 @@ If I jump back into being an IC, am I destroying my future career prospects? How
 Good questions all.
 
 ### Who's the boss?
+
+![Whos the boss mug gif](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZG83bWpydW5qMTRrdTJ4b3dpN2k0a3R1OWVwZ25naDY5bTRqc3dieiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QBAtAFLqRkuU9fKBvu/giphy.gif)
 
 Once you've been the one dishing out the orders and got your head thinking in that way, it can be difficult to go back to being the order-taker, not the order-giver. It really depends on your whole view of the management / IC relationship.
 
@@ -106,6 +128,8 @@ _But without Mick, there wouldn't be a show at all._
 
 And no, that doesn't mean I think I'm Mick Jagger. Of course not. I'm obviously Keith Richards...
 
+![Keith Richards wink gif](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTNyeGQ5N3poZWdvb3hnMnBiaDJhdHh2Zjhqem5pMGcyajJuMGtwdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/9F9I9Nj8Dok7e/giphy.gif)
+
 _TL;DR A good manager is a force multiplier for the positive impact of their team. But nothing happens at all without good ICs._
 
 Getting the balance right between you and your new manager will be vital to making this transition back to IC work. If you can't, or won't, find the right working groove between you then you're dead in the water.
@@ -114,6 +138,8 @@ Getting the balance right between you and your new manager will be vital to maki
 
 ### Show us what you've learned
 
+![Did you learn nothing gif](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3Eyc2lnN280Y2ZmMzFzMHgweWtvYXQ0Njlwbm00OGRpb29jbHJubyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kDTFIqmfLvidtKJw05/giphy.gif)
+
 Is it all pain and no gain? Of course not. You didn't leave all of your hard won experience and skills at the door when you went over to <strike>the Dark Side</strike> the world of management in the first place.
 
 And you won't leave behind any of the new skills you've picked up over there if you move back.
@@ -121,6 +147,8 @@ And you won't leave behind any of the new skills you've picked up over there if 
 You'll need some time to get back up to speed on the technical side of things, the world waits for no-one in that regard. And the modern data stack is an unforgiving mistress if you take your eye off the ball for too long.
 
 However, the superpowers you will have developed, maybe under the radar, even to yourself, will more than compensate. _In fact, they can help propel you to new heights of possibility as an IC._
+
+<div class="tenor-gif-embed" data-postid="4084434" data-share-method="host" data-aspect-ratio="2.39" data-width="100%"><a href="https://tenor.com/view/superman-shirt-super-christopher-reeve-movie-gif-4084434">Taking Off The Shirt - Superman GIF</a>from <a href="https://tenor.com/search/superman-gifs">Superman GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 
 **Prioritizing the really important work is one of the most important skills any IC can develop** As a line manager, you'll have had this as one of your main tasks, day in, day out. Why wouldn't you bring those talents back over to the IC world?
 
@@ -132,11 +160,15 @@ GOLD. DUST. Ignore these superpowers at your peril.
 
 ### Winning friends and influencing people
 
+![Step Brothers best friends gif](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXYweWpienRpdmo4MzVxMzloNDBuaXZ3d2RsdmNnN3VsZmlvZTM2diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l1ughbsd9qXz2s9SE/giphy.gif)
+
 You can be the best data analyst in the whole world. Stats genius. Coding legend. Visionary gift of second sight into the hearts, minds, and souls, of the customers who are the lifeblood of your business.
 
-But if you're an asshole who can't get along with anyone, on your team, in your management, or throughout your org, then you're stuffed.
+But if you're an insufferable asshole who can't get along with anyone, on your team, in your management, or throughout your org, then you're stuffed.
 
-The rest means nothing. Absolutely nothing.
+The rest means absolutely nothing.
+
+![Do you still like me gif](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExODVoNWJiOWhyM3d3YWo4dnd5ZG8ycDU5M3k0Y2doNXIxNHF0cHQ0YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3og0IxKPlzhp5nZTTG/giphy.gif)
 
 That doesn't mean being likeable is the most important thing you can do to further your career. It definintely helps rather than hinders but you don't want to turn into Captain Butt-Kiss to achieve it.
 
@@ -148,6 +180,7 @@ _In fact it's vital._
 
 ### Becoming partners, not servants
 
+![Dream team Brooklyn Nine Nine gif](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHQwZGFmY2xxcDYxNm0xZGZ2cHBkc2l0aXp1bDg1ZzljNXV6NzhmOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MdkQdz1CG2KIymkiYr/giphy.gif)
 
 Building strong working bonds with your stakeholders, be they engineers, product managers, finance analysts, or whoever, is one of the most important aspects of being a successful data analyst IC.
 
@@ -156,6 +189,8 @@ It boils my piss to see so much of the "advice" from data influencers (whatever 
 Yes, it helps to be technically proficient. It helps a lot.
 
 **_But it doesn't mean a damn thing if you can't work with your stakeholders._**
+
+![Homer Simpson coyote soul mate gif](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2w3YjAxamRhenoxbGk1aGZ6cDlxanNucHlvMGNpbWdvdGE5ZjU5ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3orifc0tEg8NgeK6pG/giphy.gif)
 
 Understand them and their role. Get deep into their business domain. Find their blockers. See where the overlap occurs between your previous world and where you are meeting them now.
 
@@ -172,6 +207,8 @@ But work on it I will. For me, this is the best possible area to focus on if you
 
 ### The wisdom of sharing wisdom
 
+![Jack Black knowledge is power gif](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXVtbXFtODQ5anRmeGFtb3o0ZDhlaHJmMjA1NWdkcW1mZTB3eGNrZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ToMjGpRhf96j23aTc5i/giphy.gif)
+
 > "But I've been out of the game for a few years Coach, what could I possibly teach these young whippersnappers I'm working with now?"
 
 Many of the benefits of moving back to being a data IC from management aren't exactly tangible in nature. It's about the skills and experiences you'll have built up, even if you didn't realise that was happening at the time.
@@ -182,6 +219,8 @@ It's about being able to take a mental model of the biggest picture, split it do
 
 And it's about communicating that to your team-mates, your <strike>stakeholders</strike> partners, and your leadership.
 
+![Ace Ventura help gif](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXlqYzJmNDY3azlobXkwcW9nbTJtY28xeDVvZGRpNTBuMDhiNDNhOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6ySFKd72MyV4Q/giphy.gif)
+
 It's about recognising _how_ you do that, even if it's not something you even realised that you do in the first place. And, **_most of all_**, it's about helping those around you learn better ways to do those things you do so they can up their game too.
 
 Learning, sharing, and making the whole environment even a little bit better. That's what it's all about.
@@ -189,6 +228,8 @@ Learning, sharing, and making the whole environment even a little bit better. Th
 And who better to provide that mentorship, to bring others along with you, than someone who's seen it from the other side of the room as well?
 
 ### Room for creativity
+
+![Bob Ross beauty gif](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2F1NHNmcDE4eWw0MDgxejJ0dHBkeGMxODlnNWY5cTRrdGJhOXEydyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GINwWtxBkXgOs/giphy.gif)
 
 I'm not saying management isn't a realm suitable for creative work. Getting people to do something that they don't necessarily want to do for the greater good of the company can require the greatest creativity imaginable. No doubt about it.
 
@@ -230,3 +271,6 @@ Consider that part as carefully as the, maybe temporary, loss of prestige, power
 And if it doesn't work out then just go back to the first instalment in this career journey series and go be a data manager again. Sure it'll be a cakewalk after you've been there and gone back again!
 
 Good luck in your decisions and future careers whichever way you decide to go. If you have any questions or anecdotes of your own to tell, please get in touch. It's good to talk and share these experiences with each other.
+
+_Photo by <a href="https://unsplash.com/@zburival?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Zbynek Burival</a> on <a href="https://unsplash.com/photos/aerial-photography-of-clouds-8iZG31eXkks?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>_
+  
