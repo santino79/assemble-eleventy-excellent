@@ -5,7 +5,7 @@ description: 'Resources, articles, and courses to help build better data analyst
 layout: 'home'
 blog:
   title: 'New to Analysts Assemble?'
-  intro: "Check out some of my most popular and valuable articles and interviews."
+  intro: "Check out some of my most popular articles and interviews."
 ---
 
 ## Building better data analysts
