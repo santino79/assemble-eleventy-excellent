@@ -16,6 +16,10 @@
   font-size: var(--size-step-3);
 }
 
+.card h3 {
+  font-size: var(--size-step-2);
+}
+
 .card h2 a,
 .card h3 a {
   text-decoration: none;
