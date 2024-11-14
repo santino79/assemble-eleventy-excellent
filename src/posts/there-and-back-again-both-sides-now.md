@@ -138,11 +138,11 @@ Getting the balance right between you and your new manager will be vital to maki
 
 ## It's not all doom and gloom
 
-We've worked our way through the unpleasant middle part of the "Oreo sandwich" at this point and it's all plain sailing from here. Well, sort of.
+Don't be downhearted at this stage.
 
-Don't be downhearted at this stage. We had to cover off the downsides to make sure you were properly armed to make a big decision at the end of this. And you can't do that without knowing both sides of the story. We wouldn't be good, objective, scientific-method-loving data analysts otherwise, now would we?
+We had to cover off the downsides to make sure you were properly armed to make a big decision at the end of this. And you can't do that without knowing both sides of the story.
 
-In the fourth and final part of this series, we'll start to look at the brightside of the whole conundrum, what can go very right with making that jump back to being an IC from management, and what we need to consider to make the decision.
+In the final part of this series, we'll look at what can go very right with making that jump back to being an IC, and what we need to consider to make the decision.
 
 Check out There And Back Again Part 4: [Looking On The Brightside...And Making Your Decision](/articles/looking-on-the-brightsideand-making-your-decision/)
 
