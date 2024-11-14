@@ -1,22 +1,7 @@
 [
   {
-    "platform": "github",
-    "url": "https://github.com/santino79/assemble-eleventy-excellent",
-    "icon": "github.svg"
-  },
-  {
-    "platform": "twitter",
-    "url": "https://twitter.com/AlanHylands",
-    "icon": "twitter.svg"
-  },
-  {
-    "platform": "linkedin",
-    "url": "https://www.linkedin.com/in/alanhylands/",
-    "icon": "linkedin.svg"
-  },
-  {
     "platform": "rss",
-    "url": "/feed.xml",
+    "url": "feed.xml",
     "icon": "rss.svg"
   }
 ]
