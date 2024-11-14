@@ -4,7 +4,7 @@ date: 2024-03-29
 ---
 {% imagePlaceholder "./src/assets/images/blog/rob-wicks-yVuRzuqArkg-unsplash.jpg", "One way sign lying on the ground", "" %}
 
-_This is Part 2 of a 3 part series, detailing the trials and tribulations of moving from being a [data IC to data manager](/articles/becoming-an-analytics-manager-isnt-a-promotion-its-a-career-change/) , and [back to IC again](/articles/ive-looked-at-life-from-both-sides-now/)._
+_This is Part 2 of a 4 part series, detailing the trials and tribulations of moving from being a [data IC to data manager](/articles/becoming-an-analytics-manager-isnt-a-promotion-its-a-career-change/), and [back to IC again](/articles/ive-looked-at-life-from-both-sides-now/)._
 
 ## Once upon a time, there was an analyst who became a manager
 
