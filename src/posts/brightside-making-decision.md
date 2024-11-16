@@ -6,6 +6,12 @@ date: 2024-11-14
 
 _This is Part 4 of a 4 part series, detailing the trials and tribulations of moving from being a [data IC to data manager](/articles/becoming-an-analytics-manager-isnt-a-promotion-its-a-career-change/), why we might think about going [back to Individual Contributor](/articles/there-and-back-again-a-data-career-journey/) again, and [what could go very wrong](/articles/ive-looked-at-life-from-both-sides-now/) with that move._
 
+In Part 4, we'll look at:
+
+- What can go right with a move back to being a Data Individual Contributor from a management role.
+- The things you learned as a manager that can supercharge your IC skills.
+- And the things to consider when making that all-important final decision on whether to take the plunge.
+
 ## What can go right
 
 My goodness but the [last part](/articles/ive-looked-at-life-from-both-sides-now/) of the series was a bit doom and gloom, wasn't it? Surely we're not completely over the hill? Not a busted flush just yet, are we?
