@@ -1,5 +1,5 @@
 ---
-title: Looking On The Brightside...And Making Your Decision
+title: Looking On The Bright Side...And Making Your Decision
 date: 2024-11-14
 ---
 {% imagePlaceholder "./src/assets/images/blog/levi-guzman-zdSoe8za6Hs-unsplash.jpg", "3 people celebrating in silhouette against a sunset", "" %}

@@ -144,6 +144,6 @@ We had to cover off the downsides to make sure you were properly armed to make a
 
 In the final part of this series, we'll look at what can go very right with making that jump back to being an IC, and what we need to consider to make the decision.
 
-Check out There And Back Again Part 4: [Looking On The Brightside...And Making Your Decision](/articles/looking-on-the-brightsideand-making-your-decision/)
+Check out There And Back Again Part 4: [Looking On The Bright Side...And Making Your Decision](/articles/looking-on-the-bright-sideand-making-your-decision/)
 
 _Photo by <a href="https://unsplash.com/@zburival?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Zbynek Burival</a> on <a href="https://unsplash.com/photos/aerial-photography-of-clouds-8iZG31eXkks?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>_
