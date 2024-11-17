@@ -44,11 +44,9 @@ All of those totally incompetent middle managers you have encountered in your ca
 
 They were good at something else and, when they got into this job, their bosses found they weren’t as good at it and left them there. **And now it all makes perfect sense.**
 
-## But that won’t happen to us, will it?
+### But that won’t happen to us, will it?
 
-### Well, what does your personal experience tell you?
-
-Invariably it does.
+Well, what does your personal experience tell you? Invariably..._it does._
 
 ## Why would you want to move into management in the first place?
 
@@ -139,6 +137,14 @@ And of course I knew the work would be of a high quality. I mean, **why else did
 [Drop me a note][1] with some of your own tales of moving from an analyst role into management and how it worked out for you. Knowing where the pitfalls lie and the possible successes you can achieve can be really helpful to anyone coming behind.
 
 Plus I'm nosey and like to hear other people's stories.
+
+## Interested in the opposite move, from management back to IC?
+
+This is Part 1 of a 4 part series, detailing:
+-  the trials and tribulations of moving from being a [data IC to data manager](/articles/becoming-an-analytics-manager-isnt-a-promotion-its-a-career-change/)
+- why we might think about going [back to Individual Contributor](/articles/there-and-back-again-a-data-career-journey/) again
+- [what could go very wrong](/articles/ive-looked-at-life-from-both-sides-now/) with that move.
+- and, ultimately, what could make it a [very good decision](/articles/looking-on-the-bright-sideand-making-your-decision/) for us, and for those we work for.
 
 (Main Photo by [rawpixel][2] on [Unsplash)][3]
 
