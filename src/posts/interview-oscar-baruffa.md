@@ -13,7 +13,7 @@ _So I caught up with him this week to get a little more background and see how h
 
 _Welcome to Analysts Assemble, **Oscar Baruffa**._
 
-### Tell us a bit about yourself, how did you get into the data space and what does your data journey look like so far?
+_**Tell us a bit about yourself, how did you get into the data space and what does your data journey look like so far?**_
 
 All my roles have had a strong element of interpreting data and making commercial decisions based on that information. I started out doing Mechanical Engineering, moving onto sustainability auditing, then running a national recycling programme through to my current role as a Data Specialist.
 
@@ -22,7 +22,7 @@ I realized the other day that my two most transferable skills are:
 1. Interpreting and communicating data
 2. Project management. 
 
-### What’s a typical day look like for you in your current data role? Which tools and languages do you use? Big team/small team/lone wolf? Remote/office based/co-working space?
+_**What’s a typical day look like for you in your current data role? Which tools and languages do you use? Big team/small team/lone wolf? Remote/office based/co-working space?**_
 
 At the moment I work 4 days in the office and 1 day remote in a medium-sized company. In my previous role I was fully remote for many years.
 
@@ -34,7 +34,7 @@ Tableau is actually great for doing "live" analysis with a non-technical audienc
 
 It's quite fun to do :). 
 
-### You are very active on Twitter. How important do you think it is for data professionals, at all stages of their career, to share publicly what they are doing and learning?
+_**You are very active on Twitter. How important do you think it is for data professionals, at all stages of their career, to share publicly what they are doing and learning?**_
 
 I think you can have a long and rewarding career without any social media presence or sharing what you've learnt.
 
@@ -42,23 +42,23 @@ The benefit I see is that it certainly enriches my daily work by being aware of 
 
 LinkedIn is really good for keeping tabs on where people are moving to throughout their career. I think its worth keeping a decent profile maintained for that purpose.
 
-### Where do you see your own data career going next? Building on your technical skills or moving into a more management-based role?
+_**Where do you see your own data career going next? Building on your technical skills or moving into a more management-based role?**_
 
 I'm focusing on building my technical skill as I have spent quite a few years moving more to management-based role. I'd say probably 90% of my time in recent years has been management-focused. 
 
-### If you had a list of “best-kept-secrets” (websites, books, coaches) that have helped you, which would you recommend?
+_**If you had a list of “best-kept-secrets” (websites, books, coaches) that have helped you, which would you recommend?**_
 
 There's quite a few but I think a [commencement speech](https://www.youtube.com/watch?v=ikAb-NYkseI) by Neil Gaiman some years back, titled "Make Good Art", is really fantastic for anyone creating anything. Especially if you feel that there are already tonnes of blog posts/tutorials/books on a subject and that you have nothing to add.
 
 It's a really good perspective on why to create things and which projects and roles to choose in life. 
 
-### What is the number one piece of advice you give to aspiring data scientists?
+_**What is the number one piece of advice you give to aspiring data scientists?**_
 
 Remember that data is a tool for decision making, but don't rely on it as the sole means to make decisions. When interacting with others (clients, customers, execs, peers), they will have a lot of considerations (data points :) ) that are hidden from you.
 
 Your data and insights are a piece of the puzzle.
 
-### Where can readers find you online?
+_**Where can readers find you online?**_
 
 The best places these days are:
 

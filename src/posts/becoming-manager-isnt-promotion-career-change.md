@@ -142,9 +142,9 @@ Plus I'm nosey and like to hear other people's stories.
 
 This is Part 1 of a 4 part series, detailing:
 -  the trials and tribulations of moving from being a [data IC to data manager](/articles/becoming-an-analytics-manager-isnt-a-promotion-its-a-career-change/)
-- why we might think about going [back to Individual Contributor](/articles/there-and-back-again-a-data-career-journey/) again
-- [what could go very wrong](/articles/ive-looked-at-life-from-both-sides-now/) with that move.
-- and, ultimately, what could make it a [very good decision](/articles/looking-on-the-bright-sideand-making-your-decision/) for us, and for those we work for.
+- why we might think about going [back to Individual Contributor](/articles/can-i-go-back-to-being-a-data-ic-after-being-a-manager/) again
+- [what could go very wrong](/articles/what-can-go-wrong-when-moving-back-to-data-ic-role-after-being-a-manager/) with that move.
+- and, ultimately, what could make it a [very good decision](/articles/why-should-we-move-back-to-data-ic-role-after-being-a-manager//) for us, and for those we work for.
 
 (Main Photo by [rawpixel][2] on [Unsplash)][3]
 

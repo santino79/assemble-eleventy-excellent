@@ -13,7 +13,7 @@ the arrival of Ludovic's first child earlier this year - which was a more than a
 *Let's hear from Ludovic now on how he got into data, where he developed his skillset and how he thinks 
 other data folks should be working to push their own skills on.*
 
-### Tell us a bit about yourself, how did you get into the data space and what does your data journey look like so far?
+_**Tell us a bit about yourself, how did you get into the data space and what does your data journey look like so far?**_
 
 Hi, I’m **Ludovic Tavernier** and I’m a Data Consultant and Data Visualization Lead in a French data consultancy agency named [Valoway](https://www.valoway.com/).
 
@@ -34,7 +34,7 @@ I discovered the Tableau community and took part of some dataviz challenges. It 
  
 Now, I continue my work in traditional data environments but with much more focus on data visualization. I teach and explain basic concepts of it and keep learning at the same time!
 
-### What’s a typical day look like for you in your current data role? Which tools and languages do you use? Big team/small team/lone wolf? Remote/office based/co-working space?
+_**What’s a typical day look like for you in your current data role? Which tools and languages do you use? Big team/small team/lone wolf? Remote/office based/co-working space?**_
 
 My day work is like data visualization: it depends!
  
@@ -46,7 +46,7 @@ I have used a good variety of tools, from databases like Oracle, MySQL, Teradata
 
 I also used some ETL with a good understanding of SQL language.
 
-### You've been building up a good following through your blog and social media. How important do you think it is for data professionals, at all stages of their career, to share publicly what they are doing and learning?
+_**You've been building up a good following through your blog and social media. How important do you think it is for data professionals, at all stages of their career, to share publicly what they are doing and learning?**_
 
 Thank you! I can be shy about what I am doing, less about what I am learning. I would say people do not need to share everything publicly from the beginning.
 
@@ -58,22 +58,22 @@ I do hope to reach the plateau of sustainability in the data visualization field
 
 {% imagePlaceholder "./src/assets/images/blog/dunning-kruger-effect.jpg", "Dunning-Kruger Effect graph", "" %}
 
-### Where do you see your own data career going next? Building on your technical skills or moving into a more management-based role?
+_**Where do you see your own data career going next? Building on your technical skills or moving into a more management-based role?**_
 
 I first want to improve my data visualization skills, learn new languages and tools to perform better in that field (like d3.js or Adobe Illustrator). I am sure it will lead to new great experiences.
  
 Both building my technical skills and moving to a management-based role are attractive though. And I do think the two are correlated. Keeping practicing is crucial as the technical data landscape is always and quickly changing.
 
-### If you had a list of “best-kept-secrets” (websites, books, coaches) that have helped you, which would you recommend?
+_**If you had a list of “best-kept-secrets” (websites, books, coaches) that have helped you, which would you recommend?**_
 
 I encourage participating in challenges, for me it was #makeovermonday or #SWDchallenge. I encourage welcoming feedbacks from the community you are in (for me it was the Tableau community).
 
 And my best-kept-secret is people in general. I try to follow as many as possible to keep getting inspired in my field.
 
-### What is the number one piece of advice you give to aspiring data professionals?
+_**What is the number one piece of advice you give to aspiring data professionals?**_
 
 Practice! Everything is about practicing and courageously confronting the science you want to master. Oh and keep in mind there is always better than us!
 
-### Where can readers find you online?
+_**Where can readers find you online?**_
 
 You can find me on Twitter at[ @ltavernier7](https://twitter.com/ltavernier7), on [LinkedIn](https://www.linkedin.com/in/ludovic-tavernier/), on [Tableau Public](https://public.tableau.com/profile/ludovic.tavernier#!/) or my [blog](https://greatified.com/).

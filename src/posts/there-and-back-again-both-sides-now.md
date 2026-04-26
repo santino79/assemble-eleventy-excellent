@@ -1,17 +1,17 @@
 ---
-title: I've Looked At Life From Both Sides Now
+title: What Can Go Wrong When Moving Back To Data IC Role After Being A Manager?
 date: 2024-03-30
 ---
 {% imagePlaceholder "./src/assets/images/blog/zbynek-burival-8iZG31eXkks-unsplash.jpg", "Clouds", "" %}
 
-_This is Part 3 of a 4 part series, detailing the trials and tribulations of moving from being a [data IC to data manager](/articles/becoming-an-analytics-manager-isnt-a-promotion-its-a-career-change/) and why we might think about going [back to Individual Contributor](/articles/there-and-back-again-a-data-career-journey/) again._
+_This is Part 3 of a 4 part series, detailing the trials and tribulations of moving from being a [data IC to data manager](/articles/becoming-an-analytics-manager-isnt-a-promotion-its-a-career-change/) and why we might think about going [back to Individual Contributor](/articles/can-i-go-back-to-being-a-data-ic-after-being-a-manager/) again._
 
 ### Quick Recap
 
 In [**Part 1**](/articles/becoming-an-analytics-manager-isnt-a-promotion-its-a-career-change/), we looked at the reason why we'd move over from being a data IC (in my case, an analyst) to becoming a manager of data analysts.
 _TL;DR glass ceiling, money, seemed like the right thing to do at the time._
 
-In [**Part 2**](/articles/there-and-back-again-a-data-career-journey/), we looked at why that move might have started to turn sour and make us cast wistful glances back across the aisle to our old IC stomping ground.
+In [**Part 2**](/articles/can-i-go-back-to-being-a-data-ic-after-being-a-manager/), we looked at why that move might have started to turn sour and make us cast wistful glances back across the aisle to our old IC stomping ground.
 _TL;DR tired of politics, missing doing what we actually enjoy, scared of messing up our careers._
 
 ### What have I really learned?
@@ -144,6 +144,6 @@ We had to cover off the downsides to make sure you were properly armed to make a
 
 In the final part of this series, we'll look at what can go very right with making that jump back to being an IC, and what we need to consider to make the decision.
 
-Check out There And Back Again Part 4: [Looking On The Bright Side...And Making Your Decision](/articles/looking-on-the-bright-sideand-making-your-decision/)
+Check out There And Back Again Part 4: [Why Should We Move Back To Data IC Role After Being A Manager?](/articles/why-should-we-move-back-to-data-ic-role-after-being-a-manager//)
 
 _Photo by <a href="https://unsplash.com/@zburival?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Zbynek Burival</a> on <a href="https://unsplash.com/photos/aerial-photography-of-clouds-8iZG31eXkks?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>_

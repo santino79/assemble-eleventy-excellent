@@ -10,7 +10,7 @@ Recent graduates or folks with a few years of experience in other fields are bei
 
 Imposter Syndrome is a real problem no matter what stage of your career you are at. And in the fast paced, always changing world of tech, that applies doubly so.
 
-## Ho do you know what you don't know?
+## How do you know what you don't know?
 
 Reading articles from the tech press lionising data science as being the new rock n’ roll doesn’t exactly help. When you hear about PhDs scrapping it out for top data jobs it’s hard to see how your Bachelor’s degree (or, shock horror, no degree at all) can ever get you to an interview, never mind get selected for a role.
 

@@ -15,7 +15,7 @@ _This week's guest was one of the first of these new India-based analysts to joi
 
 _Welcome to Analysts Assemble, **Manpreet Singh**._
 
-### Tell us a bit about yourself, how did you get into the data space and what does your data journey look like so far?
+_**Tell us a bit about yourself, how did you get into the data space and what does your data journey look like so far?**_
 
 Always being curious about mathematical tools and the way they work during school days and later on wanting to dig deeper into its real life applications going forward, I got drawn towards studying Economics in my graduate and post-graduate level education. There I enjoyed econometrics, mathematical economics, and statistical analysis.
 
@@ -39,7 +39,7 @@ Having traveled this long journey of data analytics, I have worked across domain
 
 This has helped me to envision how data flows from a ground level sensor to a SCADA system in manufacturing. Or from a POS transaction to weekly targeted marketing campaign. It shows how these databases can be married to create a single source of truth to answer all customer questions in every business.
 
-### What’s a typical day look like for you in your current data role? Which tools and languages do you use? Big team/small team/lone wolf? Remote/office based/co-working space?
+_**What’s a typical day look like for you in your current data role? Which tools and languages do you use? Big team/small team/lone wolf? Remote/office based/co-working space?**_
 
 I am heading India Analytics for a global major in Renewables Energy headquartered in Singapore. My role is a rich mix of Vendor Management, Strategic Decision making and delivering on top leadership expectations (Global CTO & India Head).
 
@@ -49,21 +49,21 @@ I'm mostly interacting with my team at remote site locations: data scientists in
 
 These include Python, to cloud to IOT data handling from remote wind turbines, solar panals and generators in thermal plants.
 
-### You've been active sharing your progress on LinkedIn. How important do you think it is for data professionals, at all stages of their career, to share publicly what they are doing and learning?
+_**You've been active sharing your progress on LinkedIn. How important do you think it is for data professionals, at all stages of their career, to share publicly what they are doing and learning?**_
 
 LinkedIn can be leveraged to share high level details ensuring confidential client and business information is not compromised.
 
 The right people can always track you and understand that you are the right fit for their requirements if you share information smartly.
 
-### Where do you see your own data career going next? Building on your technical skills or moving into a more management-based role?
+_**Where do you see your own data career going next? Building on your technical skills or moving into a more management-based role?**_
 
 After a level (10-15 yrs) you are bound to get into senior/key roles as the organizations can always find resources to do your role at 1/10th the cost. Also the experience you have gathered over years helps you to do justice to the strategic roles you get into.
 
 However, you need to keep pace with the changing technology in industry and always keep yourself abreast with the latest.
 
-### If you had a list of “best-kept-secrets” (websites, books, coaches) that have helped you, which would you recommend?
+_**If you had a list of “best-kept-secrets” (websites, books, coaches) that have helped you, which would you recommend?**_
 
-### What is the number one piece of advice you give to aspiring data analysts?
+_**What is the number one piece of advice you give to aspiring data analysts?**_
 
 Everything is open source so there is no secret.
 
@@ -71,6 +71,6 @@ The key is to stick with something over time and trying to do it again and again
 
 There is nothing like right or wrong idea in technology and business, just focus on the present and do the things right and optimally. There are times when things go south when you need to do even better, that is how you get there eventually. 
 
-### Where can readers find you online?
+_**Where can readers find you online?**_
 
 Yes, I have my web footprint. I run my page called Hadooping on Facebook with around 1000+ followers and I also keep posting on [LinkedIn](https://www.linkedin.com/in/manpreet-singh-7759a716/) at times.

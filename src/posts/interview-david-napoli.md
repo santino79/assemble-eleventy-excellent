@@ -11,7 +11,7 @@ _Now, as a data consultant and highly respected member of the teaching faculty a
 
 _Welcome to Analysts Assemble, David Napoli._
 
-### Tell us a bit about yourself, how did you get into the data space and what does your data journey look like so far?
+_**Tell us a bit about yourself, how did you get into the data space and what does your data journey look like so far?**_
 
 My data journey could probably be described as “unique”, having started nearly 25 years ago as an aerospace engineer – more specifically a propulsion subsystems engineer – performing modeling of second stage propulsion systems by coding in Fortran … with a little Excel modeling thrown in here and there.
 
@@ -29,7 +29,7 @@ The DGC then formalized oversight and direction at the executive level, and prov
 
 I have since moved on from the Director role to a new stage of my career journey, which I am hopeful will continue for many years to come, and blossom for both myself and others … but we’ll get to that in the next question.
 
-### What’s a typical day look like for you in your current data role? Which tools and languages do you use? Big team/small team/lone wolf? Remote/office based/co-working space?
+_**What’s a typical day look like for you in your current data role? Which tools and languages do you use? Big team/small team/lone wolf? Remote/office based/co-working space?**_
 
 For the past several years, I no longer have a typical day. Since I left my last full-time role, I have branched into part-time independent consulting and part-time teaching.
 
@@ -59,9 +59,9 @@ Coming from a statistical background (I have all but my dissertation in Health S
 
 I am always keeping up on the latest analytics and visualization tools to be aware of and explore, and there is certainly no shortage of them!
 
-### You have an excellent daily analytics newsletter that rounds up a wide range of stories from around the data world.
+_**You have an excellent daily analytics newsletter that rounds up a wide range of stories from around the data world.**_
 
-### You are also very active on Twitter. How important do you think it is for data professionals, at all stages of their career, to share publicly what they are doing and learning?
+_**You are also very active on Twitter. How important do you think it is for data professionals, at all stages of their career, to share publicly what they are doing and learning?**_
 
 I can not stress any more strongly how important it is to share with others your thoughts, ideas, and passions.
 
@@ -81,7 +81,7 @@ I will never stop being curious on what else there is out there being discussed,
 
 The list of such reasons could go on and on, but it is all focused on how much data analytics and visualization is a passion of mine, and I will do all I can to share my passion and understandings with others, with hopes of sparking a shared enthusiasm in others and finding those who wish to join me in this intellectual journey.
 
-### Where do you see your own data career going next? Building on your technical skills or moving into a more management-based role?
+_**Where do you see your own data career going next? Building on your technical skills or moving into a more management-based role?**_
 
 As I had already been in management roles for 10+ years and chose to “move on”, I wish to continue my current path and further my efforts in teaching, and promoting data analytics, governance, visualization, ethics, and the human element.
 
@@ -93,7 +93,7 @@ Since that original concept came to life in my mind, I have reconsidered the top
 
 I hope others would find value in the details and learnings of such a journey.
 
-### If you had a list of “best-kept-secrets” (websites, books, coaches) that have helped you, which would you recommend?
+_**If you had a list of “best-kept-secrets” (websites, books, coaches) that have helped you, which would you recommend?**_
 
 Anything I find valuable in data analytics and visualization spaces, I share through my newsletter as well as in the classes I teach. There are far, FAR too many to choose from to list here … if I attempted to cull my list down, I would be here until the Knicks are finally good again (two winning seasons since my kiddo was born … who is now a sophomore in high school).
 
@@ -101,12 +101,12 @@ I will mention one book which not many in the data analytics space may be aware 
 
 Although the topic is obviously sabermetrics – one of my side analytical passions – the methods explored and explained in this book are widely applicable across industries and the analytical lessons are invaluable to all in analytical fields.
 
-### What is the number one piece of advice you give to aspiring data analysts?
+_**What is the number one piece of advice you give to aspiring data analysts?**_
 
 Be intellectually curious and analytically skeptical … OK, I know, that’s two, but they are two sides of the same coin.
 
 There are certainly more elements I would want to touch on – data ethics, data visualization, and data humanism immediately come to mind – but those are for another time and lengthy discussion.
 
-### Where can readers find you online?
+_**Where can readers find you online?**_
 
 You can find me on [LinkedIn](https://www.linkedin.com/in/davidnapoli/) and [Twitter](https://twitter.com/Biff_Bruise), through my [newsletter](https://nuzzel.com/Biff_Bruise), and my [General Assembly instructor](https://generalassemb.ly/instructors/david-napoli/10462) page.

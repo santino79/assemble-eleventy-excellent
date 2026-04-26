@@ -1,10 +1,10 @@
 ---
-title: There And Back Again - A Data Career Journey
+title: Can I Go Back To Being A Data IC After Being A Manager?
 date: 2024-03-29
 ---
 {% imagePlaceholder "./src/assets/images/blog/rob-wicks-yVuRzuqArkg-unsplash.jpg", "One way sign lying on the ground", "" %}
 
-_This is Part 2 of a 4 part series, detailing the trials and tribulations of moving from being a [data IC to data manager](/articles/becoming-an-analytics-manager-isnt-a-promotion-its-a-career-change/), and [back to IC again](/articles/ive-looked-at-life-from-both-sides-now/)._
+_This is Part 2 of a 4 part series, detailing the trials and tribulations of moving from being a [data IC to data manager](/articles/becoming-an-analytics-manager-isnt-a-promotion-its-a-career-change/), and [back to IC again](/articles/what-can-go-wrong-when-moving-back-to-data-ic-role-after-being-a-manager/)._
 
 ## Once upon a time, there was an analyst who became a manager
 
@@ -200,7 +200,7 @@ And if that upward trajectory does sound like your bag then...well, have at it, 
 
 In the next instalment of this saga, we'll take a run through some of the main things that can go wrong, and also some of the things that can go right, if we do decide to jump ship back to being an IC.
 
-Check out There And Back Again Part 3: [I've Looked At Life From Both Sides Now](/articles/ive-looked-at-life-from-both-sides-now/)
+Check out There And Back Again Part 3: [What Can Go Wrong When Moving Back To Data IC Role After Being A Manager?](/articles/what-can-go-wrong-when-moving-back-to-data-ic-role-after-being-a-manager/)
 
 ### _Some Further Recommended Reading_
 

@@ -12,7 +12,7 @@ _But that is what happened when I read an article called [The Analytics Engineer
 _I liked his take so much I immediately emailed Michael to see if he'd do a Q&A for me. And, I'm very pleased to say, here it is._
 
 
-### Tell us a bit about yourself, how did you get into the data space and what does your data journey look like so far?
+_**Tell us a bit about yourself, how did you get into the data space and what does your data journey look like so far?**_
 
 I got into data through economics and econometrics -- I was lucky enough to have the opportunity to do research with [Kerry Smith](https://sustainability.asu.edu/person/kerry-smith/) at [Arizona State University](http://www.asu.edu/) as an undergrad where I learned how to use the statistical software package Stata to do econometrics research (I even was able to co-author a paper as a result of some of that research).
 
@@ -20,7 +20,7 @@ After undergrad, I joined a boutique economics consulting firm where I wrote a l
 
 I wanted to focus on developing more software engineering skills and becoming a "data scientist" (which, at the time, was still a very new term).
 
-### During your analytics career, how did a typical day look for you? Which tools and languages did you use? Big team / small team / lone wolf? Remote / office-based / co-working space?
+_**During your analytics career, how did a typical day look for you? Which tools and languages did you use? Big team / small team / lone wolf? Remote / office-based / co-working space?**_
 
 I've had the pleasure of getting to do a lot of everything. There have been months of writing nothing but SAS code and building excel models, months of just R, and months of just python.
 
@@ -28,7 +28,7 @@ My favorite toolset is my Vim + Tmux setup which I use as my core IDE for whatev
 
 I've generally always worked on small teams (3-6 people) as part of a larger organization. Historically always in-person, though last year I moved to Mexico City and have been working on building two startups from there, completely remotely.
 
-### Now you have transcended into a startup founder role with two startups, Bolster and Recast. How does that differ on a daily operational level and how do you find the skills you nurtured in analytics have crossed over to your new role?
+_**Now you have transcended into a startup founder role with two startups, Bolster and Recast. How does that differ on a daily operational level and how do you find the skills you nurtured in analytics have crossed over to your new role?**_
 
 To be honest, it's hard to underscore the difference in the type of work that I'm doing.
 
@@ -40,7 +40,7 @@ I spend a lot of time just talking to people trying to learn how they think abou
 
 The most important skills that cross over to building a startup are the critical thinking and numeracy skills I developed as a data scientist. When you're starting something new you have to be super-disciplined when it comes to making decisions and evaluating the strategic opportunities in front of you.
 
-### One thing I'd like to expand on (and it might just be because it also applies to me at the minute) - how do you find splitting your attention between two startups when all of the conventional wisdom is to Focus Focus Focus?
+_**One thing I'd like to expand on (and it might just be because it also applies to me at the minute) - how do you find splitting your attention between two startups when all of the conventional wisdom is to Focus Focus Focus?**_
 
 I don't have a great answer, and I actually have a lot of self-doubt about this. On the one hand, having more irons in the fire seems like a reasonable way to decrease risk and increase the chance of a "hit".
 
@@ -52,9 +52,9 @@ I expect that if / when one of the projects gains significant traction I'll have
 
 I'll have a better answer for you on whether or not this strategy was a good one after another year and we'll see where I am :)
 
-### You are a writer and blogger and it was your article “[The Analytics Engineer](https://www.locallyoptimistic.com/post/analytics-engineer/)” that caught my eye when I first read it.
+_**You are a writer and blogger and it was your article “[The Analytics Engineer](https://www.locallyoptimistic.com/post/analytics-engineer/)” that caught my eye when I first read it.**_
 
-### How important do you think it is for data professionals, at all stages of their career, to share publicly what they are doing and learning?
+_**How important do you think it is for data professionals, at all stages of their career, to share publicly what they are doing and learning?**_
 
 I think writing regularly is one of the best activities you can perform to boost your career. Most importantly -- to write well, you have to think well. The act of writing helps me clarify my thoughts on a topic, and personally I've observed that writing more has helped me clarify my thinking generally, not just when I have my hands on the keyboard.
 
@@ -64,9 +64,9 @@ The second benefit is the professional network you can develop through sharing y
 
 I'm 100% positive that my next full-time job will come through the **locally optimistic** community, and I wouldn't have that if I wasn't regularly sharing my thoughts through the blog and our Slack channel.
 
-### Where do you feel your own career will go next? Can you ever see a point where you will move back into analytics full-time?
+_**Where do you feel your own career will go next? Can you ever see a point where you will move back into analytics full-time?**_
 
-### Or do those analytical skills now just become one of the fundamental building blocks of making you a better overall entrepreneur?
+_**Or do those analytical skills now just become one of the fundamental building blocks of making you a better overall entrepreneur?**_
 
 Gosh I wish I knew the answer to this.
 
@@ -74,9 +74,9 @@ I really like being an entrepreneur, but I miss "earning money" and "not working
 
 The lessons I've learned about business strategy, product-building, and sales will surely be valuable in whatever organization I join next.
 
-### Your own career path has taken you through non-profits, fast-growing B2C businesses like Harry’s Grooming and now your own startups.
+_**Your own career path has taken you through non-profits, fast-growing B2C businesses like Harry’s Grooming and now your own startups.**_
 
-### Do you think that made you a better analytics all-rounder rather than, say, sticking in one industry and diving deep into that specialisation?
+_**Do you think that made you a better analytics all-rounder rather than, say, sticking in one industry and diving deep into that specialisation?**_
 
 I think it all depends on what you want to get out of your career. I really treasure variety and take a lot of pride in using expertise from other disciplines to bring unique insights into whatever I'm working on.
 
@@ -86,7 +86,7 @@ I'm never going to be a great machine learning or algorithms engineer, and I'd b
 
 However, I think my broad knowledge base and general interest in pretty much everything is one of my super-powers, so I've leaned into it. 
 
-### If you had a list of “best-kept-secrets” (websites, books, coaches) that have helped you, which would you recommend?
+_**If you had a list of “best-kept-secrets” (websites, books, coaches) that have helped you, which would you recommend?**_
 
 Some things I do that I think more people should do:
 
@@ -95,7 +95,7 @@ Some things I do that I think more people should do:
 - Inbox zero every day
 - To-do list zero every day
 
-### What is the number one piece of advice you give to aspiring data professionals?
+_**What is the number one piece of advice you give to aspiring data professionals?**_
 
 _"Work to create as much value as you possibly can."_
 
@@ -109,7 +109,7 @@ Lots of data professionals are really interested in "research" and "working on i
 
 If you want to find success in whatever organization you're in, a single-minded focus on how your efforts can create more value is the best way to do it.
  
-### Where can readers find you online?
+_**Where can readers find you online?**_
 
 Email is the best way to get a hold of me: [kaminsky.michael@gmail.com](mailto:kaminsky.michael@gmail.com)
 

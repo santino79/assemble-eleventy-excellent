@@ -9,7 +9,7 @@ _New Zealand may be small in terms of population but their burgeoning tech scene
 
 _This week&#8217;s Analysts Assemble guest is **Christian Young** , a Wellington based senior analyst and team lead at accounting software company Xero. Christian takes us through his own route from privacy law and records management to managing his own BI reporting team._
 
-### Tell us a bit about yourself, how did you get into the data space and what does your data journey look like so far?
+_**Tell us a bit about yourself, how did you get into the data space and what does your data journey look like so far?**_
 
 Hello, my name is Christian, UK born but have lived in New Zealand since I was 7.
 
@@ -25,7 +25,7 @@ I also ended up as senior analyst in that team, I had to manage the team and the
 
 I was hired to take over a team, which I have now just done, after spending six months learning the ropes. The team is responsible for providing one-off reporting to our clients and I have an exciting, if not stressful, year or so ahead of me.
 
-### What’s a typical day look like for you in your current data role? Which tools and languages do you use? Big team/small team/lone wolf? Remote/office based/co-working space?
+_**What’s a typical day look like for you in your current data role? Which tools and languages do you use? Big team/small team/lone wolf? Remote/office based/co-working space?**_
 
 My typical day involves monitoring our ticketing system for new work, meeting with clients, and cutting code.
 
@@ -37,7 +37,7 @@ In terms of tools and technology. We have a Redshift data warehouse and we surfa
 
 The tool I spend all day using and cannot live without is Visual Studio Code. I cut all of my code here and have spent considerable amounts of time setting up extensions that speed up my workflow.
 
-### You&#8217;ve recently joined the ranks of data bloggers on Dev.to. How important do you think it is for data professionals, at all stages of their career, to share publicly what they are doing and learning?
+_**You&#8217;ve recently joined the ranks of data bloggers on Dev.to. How important do you think it is for data professionals, at all stages of their career, to share publicly what they are doing and learning?**_
 
 I think it’s extremely important for anyone in the data field to find a way of making information transfer second nature.
 
@@ -49,13 +49,13 @@ No one team in the world has nailed data quality AND data governance AND their d
 
 BI is always a game of catch up and while we are all a striving towards the same thing at the high level, the devil is in the details. Lots of problem solving is involved and while no two scenarios will be identical there is enough similarities that its very worthwhile sharing what you did so others can benefit.
 
-### Where do you see your own data career going next? Building on your technical skills or moving into a more management-based role?
+_**Where do you see your own data career going next? Building on your technical skills or moving into a more management-based role?**_
 
 I’m not overly interested in the technical. I love what I know currently but doing things like AWS certs and development doesn’t quite hold my interest so I believe my future is in the other direction.
 
 It does seem clear to me that Data Governance is a potential field that’s about to boom. With the big names in IT constantly shitting the bed in terms of customer data I think that’s a space I could move towards.
 
-### If you had a list of “best-kept-secrets” (websites, books, coaches) that have helped you, which would you recommend?
+_**If you had a list of “best-kept-secrets” (websites, books, coaches) that have helped you, which would you recommend?**_
 
 Other than Google / Stack Overflow or ASK TOM (for Oracle only), I really don’t. I’m constantly on the look out for a reliable blog / Reddit / website / person but I’ve not really come across any that I have found endless value in.
 
@@ -63,11 +63,11 @@ Like most, I’m self taught which came from persistent googling and about 500 S
 
 So yeah, many many thanks to anyone who has contributed to a SQL problem on Stack Overflow!!!!!
 
-### What is the number one piece of advice you give to aspiring data professionals?
+_**What is the number one piece of advice you give to aspiring data professionals?**_
 
 My advice for ANY aspiring professionals is to first understand the importance of risk management and documentation. Once you have those down pat and are practising them in your day to day job you will quickly start to understand how to get things done. It’s very easy to get lost in the business as usual aspect of your job, but if you can’t see the forest from the trees you aren’t going to push the needle very far, and understanding risk management is a great place to start.
 
-### Where can readers find you online?
+_**Where can readers find you online?**_
 
 [Ronsoak][2] on Medium.
 

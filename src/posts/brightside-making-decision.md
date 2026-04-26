@@ -1,10 +1,10 @@
 ---
-title: Looking On The Bright Side...And Making Your Decision
+title: "Why Should We Move Back To Data IC Role After Being A Manager?"
 date: 2024-11-14
 ---
 {% imagePlaceholder "./src/assets/images/blog/levi-guzman-zdSoe8za6Hs-unsplash.jpg", "3 people celebrating in silhouette against a sunset", "" %}
 
-_This is Part 4 of a 4 part series, detailing the trials and tribulations of moving from being a [data IC to data manager](/articles/becoming-an-analytics-manager-isnt-a-promotion-its-a-career-change/), why we might think about going [back to Individual Contributor](/articles/there-and-back-again-a-data-career-journey/) again, and [what could go very wrong](/articles/ive-looked-at-life-from-both-sides-now/) with that move._
+_This is Part 4 of a 4 part series, detailing the trials and tribulations of moving from being a [data IC to data manager](/articles/becoming-an-analytics-manager-isnt-a-promotion-its-a-career-change/), why we might think about going [back to Individual Contributor](/articles/can-i-go-back-to-being-a-data-ic-after-being-a-manager/) again, and [what could go very wrong](/articles/what-can-go-wrong-when-moving-back-to-data-ic-role-after-being-a-manager/) with that move._
 
 In Part 4, we'll look at:
 
@@ -14,7 +14,7 @@ In Part 4, we'll look at:
 
 ## What can go right
 
-My goodness but the [last part](/articles/ive-looked-at-life-from-both-sides-now/) of the series was a bit doom and gloom, wasn't it? Surely we're not completely over the hill? Not a busted flush just yet, are we?
+My goodness but the [last part](/articles/what-can-go-wrong-when-moving-back-to-data-ic-role-after-being-a-manager/) of the series was a bit doom and gloom, wasn't it? Surely we're not completely over the hill? Not a busted flush just yet, are we?
 
 Not by a long chalk.
 

@@ -11,7 +11,7 @@ _Analytics consultant **Samir Abid** tells us about his journey from engineering
 
 _We also hear how Samir is using the knowledge he has built up over the years to help others work better with their own data._
 
-### Tell us a bit about yourself, how did you get into the data space and what does your data journey look like so far?
+_**Tell us a bit about yourself, how did you get into the data space and what does your data journey look like so far?**_
 
 My name is **Samir Abid** and I run a sports analytics consultancy called [Pace Insights](http://www.paceinsights.com). We work primarily with British based Olympic and Professional sports teams to help them make their data useful (harder than it sounds!)
 
@@ -33,7 +33,7 @@ This meant the team were relying even more than ever on the simulation results f
 
 A good friend of mine from Formula 1 had then moved to UK Sport. He asked me to help with a few projects in about 2010. It became clear that sports were getting more technical and starting to use data more on their programmes but didn&#8217;t really have the skills or experience. I&#8217;ve been helping them get more value from their data, reports and processes ever since.
 
-### What’s a typical day look like for you in your current data role? Which tools and languages do you use? Big team/small team/lone wolf? Remote/office based/co-working space?
+_**What’s a typical day look like for you in your current data role? Which tools and languages do you use? Big team/small team/lone wolf? Remote/office based/co-working space?**_
 
 As a consultancy the nature of the work varies wildly. We&#8217;re based out of an office and workshop in Leamington Spa. This is a great central location for most of our customer base. Over the years the team has grown and shrunk, peaking at 8. These days I tend to front the work and call on a select group of proven freelancers when needed.
 
@@ -47,7 +47,7 @@ I&#8217;ve even been able to try some &#8220;live&#8221; dashboard development o
 
 I highly recommend trying it sometime.
 
-### You&#8217;ve built up a good following through your own blog and newsletter. How important do you think it is for data professionals, at all stages of their career, to share publicly what they are doing and learning?
+_**You&#8217;ve built up a good following through your own blog and newsletter. How important do you think it is for data professionals, at all stages of their career, to share publicly what they are doing and learning?**_
 
 The blogging is relatively new thing. Writing, unlike maths and models, doesn&#8217;t come easy. I&#8217;ve set up the side project [Your Data Driven](http://www.yourdatadriven.com) where I am hoping to share some of my experiences over the years in the hope of helping others.
 
@@ -55,7 +55,7 @@ One thing I am finding is that it really makes you think about assumptions and j
 
 For anyone to do that well will certainly help their career because, whilst the headline is data, it is really all about people. Being able to communicate your ideas clearly is so important and often not done that well. Hopefully I will get better by doing more of it.
 
-### Where do you see your own data career going next? Building on your technical skills or moving into a more management-based role?
+_**Where do you see your own data career going next? Building on your technical skills or moving into a more management-based role?**_
 
 I really enjoy the consultancy and I work with a fascinating industry. Adopting value-based pricing has really helped square away some of my own issues about doing consulting (i.e. the obsession with buying / selling time, which has no correlation to outcome success and penalises people like me who like to work really fast). The roller coaster of feast or famine does get a bit much after a while.
 
@@ -65,13 +65,13 @@ Recently I&#8217;ve done more strategic consulting for a couple of customers and
 
 I&#8217;ve been successfully building them on a bespoke basis so I&#8217;d like to see if I can make something to successfully solve an issue everyone is facing.
 
-### If you had a list of “best-kept-secrets” (websites, books, coaches) that have helped you, which would you recommend?
+_**If you had a list of “best-kept-secrets” (websites, books, coaches) that have helped you, which would you recommend?**_
 
 I like the work of [Edward Tufte](https://www.edwardtufte.com/). There are a few good &#8220;Data science in Excel&#8221; books which I think are worth a read &#8211; they build ML models from scratch using sheet formulas alone!
 
 Other than that, the best people who ever helped me are the people I&#8217;ve worked with &#8211; in terms of their feedback, ideas and often crazy ways of using my work (like printing out an Excel dashboard I designed onto a 4 metre wall in the boardroom. True!)
 
-### What is the number one piece of advice you give to aspiring data scientists?
+_**What is the number one piece of advice you give to aspiring data scientists?**_
 
 Don&#8217;t assume you know the problem you&#8217;re being asked to solve. I&#8217;ve a blog article coming out on this soon but I&#8217;ve distilled this down into the &#8220;3x knows.&#8221; These are &#8220;I don&#8217;t&#8221;, &#8220;I think I&#8221; and &#8220;I do&#8221;.
 
@@ -81,7 +81,7 @@ Repeat this back to them in your own words. Get them to tell you again. Then get
 
 It is a pain but it is better to have this exchange at the beginning rather than at the end &#8230;
 
-### Where can readers find you online?
+_**Where can readers find you online?**_
 
 Please sign up to the newsletter at [www.yourdatadriven.com](http://www.yourdatadriven.com) if you want to hear me share some thoughts each week (there are other benefits of course!)
 

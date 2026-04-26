@@ -11,7 +11,7 @@ _I started reading articles last year on Justin&#8217;s blog ProjectBI and was i
 
 _We&#8217;ll find out more about Justin&#8217;s background, why he decided to take his BI consultancy services out on the road and where he plans to take his business and data career next._
 
-### Tell us a bit about yourself, how did you get into the data space and what does your data journey look like so far?
+_**Tell us a bit about yourself, how did you get into the data space and what does your data journey look like so far?**_
 
 My name is **Justin Butlion** and I&#8217;m 34 years old. I was born and raised in Port Elizabeth, South Africa. At the age of 19 I immigrated with my family to Israel where I live for 14 years before becoming a digital nomad last April.
 
@@ -29,7 +29,7 @@ After 4.5 years at Yotpo I decided it was time to say goodbye and start a new ch
 
 My goal for 2019 is to bring in 5X what I did last year. It&#8217;s a big goal but I&#8217;d rather aim high and miss than aim low and hit.
 
-### What’s a typical day look like for you in your current data role? Which tools and languages do you use? Big team/small team/lone wolf? Remote/office based/co-working space?
+_**What’s a typical day look like for you in your current data role? Which tools and languages do you use? Big team/small team/lone wolf? Remote/office based/co-working space?**_
 
 My typical day starts with a few hours of work in my apartment. I&#8217;m currently in Medellin, Colombia and all my clients are in Israel or Europe so the time difference is not in my favor. I therefore start the day answering emails, going over Slack and jumping into calls.
 
@@ -39,13 +39,13 @@ All my work is done remotely using your standard set of tools like Slack and Gma
 
 The work itself is quite varied but there is a heavy focus currently on Tableau. I also write a lot of SQL and spend a lot of time in tools like Google Analytics, Firebase, BigQuery, Intercom and CRM systems.
 
-### You&#8217;ve built up a good following through your own blog and newsletter. How important do you think it is for data professionals, at all stages of their career, to share publicly what they are doing and learning?
+_**You&#8217;ve built up a good following through your own blog and newsletter. How important do you think it is for data professionals, at all stages of their career, to share publicly what they are doing and learning?**_
 
 I started my career following people like Seth Godin and Gary Vaynerchuk so I&#8217;ve been thinking about personal branding for a long time. I also started out as a marketer and know how powerful a quality blog and other web assets can be to a business.
 
 I know it&#8217;s not for everyone but I&#8217;d highly recommend that anyone that works online consider investing in a long-term strategy which aims to build their personal brand. There are many ways to do this, writing content for a blog is just one way.
 
-### Where do you see your own data career going next? Building on your technical skills or moving into a more management-based role?
+_**Where do you see your own data career going next? Building on your technical skills or moving into a more management-based role?**_
 
 For now I&#8217;m focused on building out ProjectBI. I see a growing trend towards being &#8220;data-driven&#8221; and I&#8217;m well positioned to take advantage of this wave. I have a lot of ideas for ProjectBI and excited to see where I can take things.
 
@@ -53,7 +53,7 @@ I&#8217;m extremely hands on as a consultant which forces me to constantly learn
 
 There is no way I can scale ProjectBI without transitioning from 100% hands on to a more balanced split between hands on and manager. For now I&#8217;m doing both but this isn&#8217;t optimal and I&#8217;m working on making the transition.
 
-### If you had a list of “best-kept-secrets” (websites, books, coaches) that have helped you, which would you recommend?
+_**If you had a list of “best-kept-secrets” (websites, books, coaches) that have helped you, which would you recommend?**_
 
 I was very fortunate to get paired up with an amazing mentor when I became the Director of Business Performance at Yotpo. This individual worked with me for 2 years and was an incredible resource of knowledge in all aspects of the job. If you can find someone that has done the job before and done it well that can train and support you it will make all the difference.
 
@@ -63,10 +63,10 @@ I sat on my own dime for many hours working out how to use the platform and toda
 
 I think it&#8217;s all mental in the end of the day. It&#8217;s a matter of being resourceful, determined, patient and hard working.
 
-### What is the number one piece of advice you give to aspiring data scientists?
+_**What is the number one piece of advice you give to aspiring data scientists?**_
 
 Be true to yourself. I know that sounds very &#8220;new age&#8221; and philosophical but I really believe it. You need to know yourself very well and build your life around your strengths, interests, and preferences. This might mean working for a small startup because you like the high-paced environment, or focusing on building out your own training site because you like the idea of doing your own thing.
 
-### Where can readers find you online?
+_**Where can readers find you online?**_
 
 I can be found on [LinkedIn](https://www.linkedin.com/in/justin-butlion-54912129/), [Twitter](https://twitter.com/justin_butlion), [Nomadlist](https://nomadlist.com/@justin_butlion) and on the [ProjectBI blog](https://www.projectbi.net).

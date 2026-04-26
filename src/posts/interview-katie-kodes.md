@@ -11,7 +11,7 @@ _I&#8217;d first read Katie&#8217;s excellent article on [SQL Joins](https://dev
 
 _Katie takes us through her introduction to the world of programming, getting involved with the Salesforce eco-system and how she recommends people lift themselves, and others, up through building their overall skill-sets:_
 
-### Tell us a bit about yourself, how did you get into the data space and what does your data journey look like so far?
+_**Tell us a bit about yourself, how did you get into the data space and what does your data journey look like so far?**_
 
 Let&#8217;s get a few things out of the way. I&#8217;m white. I&#8217;m able-bodied. I speak English natively. I have no immigration worries. My childhood environments were safe and educational. I&#8217;m university-educated and had professional computer programmers as adult role models growing up.
 
@@ -39,7 +39,7 @@ As I&#8217;ve gone deeper into &#8220;Extract, Transform, Load&#8221; (ETL) inte
   
 4) coding!
 
-**What’s a typical day look like for you in your current data role? Which tools and languages do you use? Big team/small team/lone wolf? Office based/remote?**
+_**What’s a typical day look like for you in your current data role? Which tools and languages do you use? Big team/small team/lone wolf? Office based/remote?**_
 
 I try to exercise as often as I can, because computer work is brutal to your hands, eyes, and back. Recently, I&#8217;ve been able to use a pool and discovered treading water is great for your upper body AND timing meetup talk ideas. (Does anything speed up 30 minutes better than needing 40?)
 
@@ -59,7 +59,7 @@ _**Tools:**_
 
 Integration work is pretty &#8220;MacGyver&#8221;-ey. You access data with the tools your company invested in, and you cobble solutions together as effectively and efficiently as they allow.
 
-### You&#8217;ve had a great response to your own blog and your articles on Dev.to. How important do you think it is for data professionals, at all stages of their career, to share publicly what they are doing and learning?
+_**You&#8217;ve had a great response to your own blog and your articles on Dev.to. How important do you think it is for data professionals, at all stages of their career, to share publicly what they are doing and learning?**_
 
 I have priceless colleagues who don&#8217;t seem to share what they know far beyond the water cooler.
 
@@ -71,13 +71,13 @@ Meetups (including in-company user groups) and local conferences are a very forg
 
 You can always start a new blog as you &#8220;level up&#8221; your writing and speaking experience to consolidate your &#8220;best-of&#8221; moments and move on from your &#8220;newbie&#8221; days.
 
-### Where do you see your own data career going next? Building on your technical skills or moving into a more management-based role?
+_**Where do you see your own data career going next? Building on your technical skills or moving into a more management-based role?**_
 
 At the moment, technical skills interest me far more than managing people, as much as I love being around them.
 
 But never say never!
 
-### If you had a list of “best-kept-secrets” (websites, books, coaches) you’d recommend, which would you recommend?
+_**If you had a list of “best-kept-secrets” (websites, books, coaches) you’d recommend, which would you recommend?**_
 
 Alan, you gave me so much decision anxiety when you asked this question. I got stuck for days until I had added all the books at my office desk to the &#8220;resources&#8221; section of my website so they&#8217;d know I love them, too.
 
@@ -87,7 +87,7 @@ Other people will cover the big ones like FreeCodeCamp and Dev.to, so let me sha
 
 2. &#8220;[Introduction to Unix and Shell Programming](https://dealoz.com/prod?gtin=09788177587456&sort=total_cost%3Aasc)&#8221;  (Venkateshmurthy). This is published in India and can be hard to find in some countries, but it&#8217;s worth the effort. After many failed efforts, this was the friendly, thorough explanation that finally taught me Unix.
 
-### What is the number one piece of advice you give to aspiring data scientists?
+_**What is the number one piece of advice you give to aspiring data scientists?**_
 
 One? Just one? Can I pick two? Please?
 
@@ -115,7 +115,7 @@ Specialize in that as you start, to quickly ramp up into an employable niche.
 
 &#8220;Know what you don&#8217;t know,&#8221; though, and stay big-picture informed about what &#8220;data scientists&#8221; with other specialties are doing as time marches on. It&#8217;ll help you decide what new developments in your specialty are really relevant, and it&#8217;ll help you decide whether you&#8217;re interested in adding a new specialty.
 
-### Where can readers find you online?
+_**Where can readers find you online?**_
 
 [My personal site &#8211; Katie Kodes][1]
 
