@@ -9,6 +9,8 @@ layout: page
 
 ### SQL Crash Course
 
+[Visit SQL Crash Course](https://sqlcrashcourse.com)
+
 {% imagePlaceholder "./src/assets/images/blog/sqlcrashcourse_800x419.png", "SQL Crash Course", "" %}
 
 _I don't make the following statement lightly:_
