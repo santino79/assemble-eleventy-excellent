@@ -1,6 +1,7 @@
 ---
 title: Can I Go Back To Being A Data IC After Being A Manager?
 date: 2024-03-29
+featured: true
 ---
 {% imagePlaceholder "./src/assets/images/blog/rob-wicks-yVuRzuqArkg-unsplash.jpg", "One way sign lying on the ground", "" %}
 

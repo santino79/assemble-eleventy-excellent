@@ -1,6 +1,7 @@
 ---
 title: What Can Go Wrong When Moving Back To Data IC Role After Being A Manager?
 date: 2024-03-30
+featured: true
 ---
 {% imagePlaceholder "./src/assets/images/blog/zbynek-burival-8iZG31eXkks-unsplash.jpg", "Clouds", "" %}
 

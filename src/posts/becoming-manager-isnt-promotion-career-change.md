@@ -1,6 +1,7 @@
 ---
 title: Becoming An Analytics Manager Isn’t A Promotion. It’s A Career Change.
 date: 2024-01-23
+featured: true
 ---
 {% imagePlaceholder "./src/assets/images/blog/manager-team-table.jpg", "Manager sitting at a table", "" %}
 
