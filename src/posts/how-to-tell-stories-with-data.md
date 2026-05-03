@@ -1,6 +1,7 @@
 ---
 title: How To Tell Stories With Data
 date: 2026-04-27
+featured: true
 ---
 
 ![Cool story bro gif](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXB0aDhreHp0c2p1OG9nZ3hxbDVrdGM2eDFyazNhMXpyaTBxcWNmcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bSllM1kdw7C7e/giphy.gif)
